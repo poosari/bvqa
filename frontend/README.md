@@ -1,59 +1,89 @@
-# Frontend
+# BVQA Frontend
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.3.
+Angular SPA that provides the user interface for document-based Q&A, communicating with the BVQA backend REST API.
 
-## Development server
+## Tech Stack
 
-To start a local development server, run:
+| Component | Technology | Version |
+|---|---|---|
+| Framework | Angular | 21.1 |
+| Language | TypeScript | 5.9 |
+| HTTP Client | Angular HttpClient | — |
+| Reactive | RxJS | 7.8 |
+| Build Tool | Angular CLI / Vite | — |
 
-```bash
-ng serve
+## Features
+
+- **Document Sidebar** — View all ingested documents
+- **File Upload** — Upload PDF or JSON Q&A files directly from the UI
+- **Chat Interface** — Ask questions about selected documents
+- **Real-time Responses** — AI-generated answers grounded in document content
+
+## Project Structure
+
+```
+frontend/
+├── src/
+│   ├── app/
+│   │   ├── app.ts                 # Main app component (UI + chat logic)
+│   │   ├── app.config.ts          # Angular app configuration
+│   │   ├── app.routes.ts          # Routing configuration
+│   │   └── notebook.service.ts    # HTTP service for backend API communication
+│   ├── index.html                 # HTML entry point
+│   ├── main.ts                    # Angular bootstrap
+│   └── styles.css                 # Global styles
+├── angular.json                   # Angular workspace config
+├── package.json                   # Dependencies and scripts
+└── tsconfig.json                  # TypeScript configuration
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## API Integration
 
-## Code scaffolding
+The `NotebookService` communicates with the backend at `http://localhost:8080`:
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+| Action | Backend Endpoint | Method |
+|---|---|---|
+| Fetch documents | `/api/documents` | GET |
+| Upload file | `/api/upload` | POST |
+| Send chat message | `/api/chat` | POST |
 
-```bash
-ng generate component component-name
-```
+## Running
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+### Prerequisites
 
-```bash
-ng generate --help
-```
+- Node.js 18+
+- npm 9+
 
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+### Install & Start
 
 ```bash
-ng test
+# Install dependencies
+npm install
+
+# Start dev server
+npm start
+
+# App runs at http://localhost:4200
 ```
 
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
+### Build for Production
 
 ```bash
-ng e2e
+npm run build
+# Output in dist/
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+## Supported File Uploads
 
-## Additional Resources
+| Type | Extensions | Description |
+|---|---|---|
+| PDF | `.pdf` | Scanned or text-based PDFs |
+| JSON Q&A | `.json` | Structured question-answer datasets |
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Usage
+
+1. Start the backend first (`cd ../backend && mvn spring-boot:run`)
+2. Start the frontend (`npm start`)
+3. Open [http://localhost:4200](http://localhost:4200)
+4. Upload a document or select one from the sidebar
+5. Type a question in the chat input and press Enter
