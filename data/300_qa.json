@@ -1,1592 +1,2102 @@
 [
     {
-        "category": "I. The Lost Continent (Kumari Kandam) & Ancient Geography",
-        "questions": [
-            {
-                "id": 1,
-                "question": "Into how many specific territories (Nadus) was the ancient Kumari Kandam divided, and can you name the seven major divisions?",
-                "answer": "It was divided into 49 territories. The seven major divisions were Ezhu Thenga Nadu, Ezhu Madurai Nadu, Ezhu Munpalai Nadu, Ezhu Pinpalai Nadu, Ezhu Kunra Nadu, Ezhu Gunakarai Nadu, and Ezhu Kurumpanai Nadu."
-            },
-            {
-                "id": 2,
-                "question": "What specific river, according to the text, originated from the Meru Mountain in Kumari Kandam and flowed eastward into the ocean?",
-                "answer": "The Pahruli River."
-            },
-            {
-                "id": 3,
-                "question": "Which Chola King is credited with establishing the \"Solar Dynasty\" (So-La) after migrating from the submerged Kumari Kandam to the \"Mina Desam\" (Egypt/Middle East)?",
-                "answer": "Oli Sembiyan (also known as Jayamanjunan)."
-            },
-            {
-                "id": 4,
-                "question": "According to the text, the Vindhya Mountains were originally known by which name connected to a Chola King?",
-                "answer": "Nerivetta (associated with King Nerivettan)."
-            },
-            {
-                "id": 5,
-                "question": "Which ancient continent (Dwipa) corresponds to the region of modern-day Greece and Turkey, and why was it named so?",
-                "answer": "Krauncha Dwipa (Bird Island/Heron Island), named because of the abundance of birds like herons and cranes."
-            },
-            {
-                "id": 6,
-                "question": "Who ruled the \"Monkey Land\" and \"Tiger Land\" in the Salmala Dwipa before the Great Deluge forced them to migrate to India?",
-                "answer": "The Vanaras (Monkey clan) and the ancestors of the Cholas (Tiger flag)."
-            },
-            {
-                "id": 7,
-                "question": "What geological explanation does the text give for the \"Seven Seas\" mentioned in Puranas (Milk Ocean, Curd Ocean, etc.)?",
-                "answer": "They were named after the color or nature of the water (White river/Pale river), not literally containing milk or curd."
-            },
-            {
-                "id": 8,
-                "question": "Which Pandyan King excavated the Pahruli River to irrigate the Peruvala Nadu?",
-                "answer": "Pandyan Nediyon."
-            },
-            {
-                "id": 9,
-                "question": "According to the text’s chronology, when did the \"First Great Deluge\" occur that submerged the Peruvian/Kumari lands?",
-                "answer": "Approximately 13,900 B.C."
-            },
-            {
-                "id": 10,
-                "question": "Which mountain range does the text identify as the \"Meru Mountain,\" explicitly stating it is not the Himalayas?",
-                "answer": "A mountain range that existed in the center of the Indian Ocean (Kumari Kandam) with 49 peaks."
-            }
-        ]
+        "id": 1,
+        "difficulty": "Medium",
+        "category": "Ancient Geography",
+        "question": "According to the text, what was the administrative structure of the ancient Kumari Kandam?",
+        "answer": "Kumari Kandam was divided into 49 Nadus (territories), organized into seven categories such as Ezhu Thenga Nadu (Coconut Land) and Ezhu Madurai Nadu, suggesting a structured agrarian civilization."
     },
     {
-        "category": "II. The Three Tamil Sangams",
-        "questions": [
-            {
-                "id": 11,
-                "question": "Who were the specific patron deities and sages of the First Sangam (Thalai Sangam)?",
-                "answer": "Lord Shiva (Irayanar), Murugan, and Agastya."
-            },
-            {
-                "id": 12,
-                "question": "What was the capital city of the Middle Sangam (Idai Sangam)?",
-                "answer": "Kapadapuram."
-            },
-            {
-                "id": 13,
-                "question": "Which Pandyan King presided over the Last Sangam (Kadai Sangam)?",
-                "answer": "Mudathirumaran III."
-            },
-            {
-                "id": 14,
-                "question": "How many years did the Middle Sangam last, and how many poets were part of it?",
-                "answer": "It lasted 3,700 years with 3,700 poets (including Agastya and Tolkappiyar)."
-            },
-            {
-                "id": 15,
-                "question": "Which rare grammar text served as the standard during the First Sangam?",
-                "answer": "Agastyam."
-            },
-            {
-                "id": 16,
-                "question": "Which Pandyan King was cursed by Agastya to become an elephant (Indradyumna) and was later redeemed by Vishnu?",
-                "answer": "Manojava Pandyan (also called Parameswara Pandyan)."
-            },
-            {
-                "id": 17,
-                "question": "What literary work mentions that 89 Pandyan Kings patronized the First Sangam?",
-                "answer": "The commentary by Nakkirar on Irayanar Akapporul."
-            },
-            {
-                "id": 18,
-                "question": "Which Pandyan King ruled when the Second Sangam's capital, Kapadapuram, was submerged?",
-                "answer": "Mudathirumaran (who then moved to North Madurai)."
-            },
-            {
-                "id": 19,
-                "question": "Who were the \"Seven Patrons\" (Kadai Ezhu Vallalgal) of the Last Sangam era?",
-                "answer": "Pari, Ori, Kari, Adhiyaman, Began, Ay, and Nalli."
-            },
-            {
-                "id": 20,
-                "question": "Which text was authorized by the Middle Sangam and remains the oldest extant Tamil grammar?",
-                "answer": "Tolkappiyam."
-            }
-        ]
+        "id": 2,
+        "difficulty": "Hard",
+        "category": "Ancient Geography",
+        "question": "Where does the text locate Mount Meru, contradicting standard geography?",
+        "answer": "The text locates Mount Meru in the center of the submerged Kumari Kandam (Lemuria) south of Sri Lanka, rather than in the Himalayas, claiming it was the source of the Pahruli River."
     },
     {
-        "category": "III. The Ramayana Era (Chronology & Lineage)",
-        "questions": [
-            {
-                "id": 21,
-                "question": "Based on astronomical calculations cited in the text, what is the exact birth date of Lord Rama?",
-                "answer": "21st April, 7013 B.C."
-            },
-            {
-                "id": 22,
-                "question": "Which Chola King was the contemporary of Lord Rama and participated in the events of that era?",
-                "answer": "Kambu Kandan."
-            },
-            {
-                "id": 23,
-                "question": "Who was the Pandyan King reigning during the time of the Ramayana?",
-                "answer": "Anantha Guna Pandyan."
-            },
-            {
-                "id": 24,
-                "question": "What relation was the demon king Ravana to the god of wealth, Kubera?",
-                "answer": "They were half-brothers (sons of Sage Visravas)."
-            },
-            {
-                "id": 25,
-                "question": "Which Chera King is said to have defeated Ravana when he tried to enter the Tamil country?",
-                "answer": "Mandaran Cheral (or simply the Chera King at the time)."
-            },
-            {
-                "id": 26,
-                "question": "According to the text, which Sage gave the \"Aditya Hridayam\" mantra to Rama, and where did this happen?",
-                "answer": "Agastya, during Rama's stay in the Tamil lands/Dandakaranya."
-            },
-            {
-                "id": 27,
-                "question": "Who was the father of King Dasharatha?",
-                "answer": "King Aja."
-            },
-            {
-                "id": 28,
-                "question": "Which Chola King married the daughter of King Vikukshi of the Solar Dynasty?",
-                "answer": "Ulagalitha Cholan."
-            },
-            {
-                "id": 29,
-                "question": "According to the text, when did the Rama-Ravana war take place?",
-                "answer": "6976 B.C."
-            },
-            {
-                "id": 30,
-                "question": "Who founded the city of Mathura after killing the Asura Lavana?",
-                "answer": "Shatrughna (Rama’s brother)."
-            },
-            {
-                "id": 31,
-                "question": "What was the name of the Chola King who gave his own flesh to save a dove, linking the Chola lineage to the \"Sibi\" legend?",
-                "answer": "Sibi Chakravarthy (Sembiyan)."
-            },
-            {
-                "id": 32,
-                "question": "Which ancient sage is claimed to be the ancestor of the Cholas, Pandyas, and Cheras via his marriage to a Vidarbha princess?",
-                "answer": "Agastya."
-            },
-            {
-                "id": 33,
-                "question": "Who was the wife of the sage Rishyasringa, who performed the Putra Kameshti Yaga for Dasharatha?",
-                "answer": "Shanta (Dasharatha's daughter)."
-            },
-            {
-                "id": 34,
-                "question": "Which Solar Dynasty king was cursed to become a \"Chandala\" (outcast) and had a new heaven created for him by Viswamitra?",
-                "answer": "Trisanku (Satyavrata)."
-            },
-            {
-                "id": 35,
-                "question": "Who was the mother of Ravana?",
-                "answer": "Kaikasi (daughter of the Asura Sumali)."
-            }
-        ]
+        "id": 3,
+        "difficulty": "Medium",
+        "category": "Solar Dynasty",
+        "question": "How does the text link the Chola King Oli Sembiyan to Egyptian history?",
+        "answer": "Oli Sembiyan is said to have migrated to 'Mina Desam' (Egypt) after a deluge, establishing the Solar Dynasty there, with the text proposing 'Chola' became 'So-La' (Sun) in that region."
     },
     {
-        "category": "IV. The Mahabharata Era (Chronology & Lineage)",
-        "questions": [
-            {
-                "id": 36,
-                "question": "What is the exact calculated birth date of Lord Krishna in the text?",
-                "answer": "27th July, 3112 B.C."
-            },
-            {
-                "id": 37,
-                "question": "When did Kali Yuga officially begin according to the text?",
-                "answer": "18th February, 3102 B.C."
-            },
-            {
-                "id": 38,
-                "question": "Which Chera King is famous for feeding both the Pandava and Kaurava armies during the 18-day war?",
-                "answer": "Perunchotru Uthiyan Cheralathan."
-            },
-            {
-                "id": 39,
-                "question": "Who was the Pandyan King during the Mahabharata War who fought on the side of the Pandavas?",
-                "answer": "Raja Kunjaran (Mudathirumaran III)."
-            },
-            {
-                "id": 40,
-                "question": "Which Chola King participated in the Mahabharata War?",
-                "answer": "Kumarankusan (or Sumana Cholan)."
-            },
-            {
-                "id": 41,
-                "question": "Who wrote the Tamil version of the Mahabharata during the Sangam age?",
-                "answer": "Perundevanar (Bharatham Padiya Perundevanar)."
-            },
-            {
-                "id": 42,
-                "question": "What happened to the city of Dwaraka 36 years after the Mahabharata War?",
-                "answer": "It was submerged by the sea due to a natural calamity/tsunami."
-            },
-            {
-                "id": 43,
-                "question": "Who was the only son of Dhritarashtra to survive the war (fighting for the Pandavas)?",
-                "answer": "Yuyutsu."
-            },
-            {
-                "id": 44,
-                "question": "Who was the Naga princess who married Arjuna and bore the son Iravan?",
-                "answer": "Ulupi."
-            },
-            {
-                "id": 45,
-                "question": "What is the text's claim regarding the complexion of Veda Vyasa and Krishna?",
-                "answer": "They were black (Dravidian complexion), challenging the \"white Aryan\" theory."
-            },
-            {
-                "id": 46,
-                "question": "Who succeeded the Pandavas to the throne of Hastinapura?",
-                "answer": "Parikshit (grandson of Arjuna)."
-            },
-            {
-                "id": 47,
-                "question": "Which Rishi cursed King Parikshit to die by snakebite?",
-                "answer": "Srinki (son of Sage Samika)."
-            },
-            {
-                "id": 48,
-                "question": "Who performed the \"Sarpa Yaga\" (Snake Sacrifice) to avenge Parikshit's death?",
-                "answer": "Janamejaya."
-            },
-            {
-                "id": 49,
-                "question": "According to the text, where did Ashwatthama migrate after the war?",
-                "answer": "To the Arabian/Iraq region (specifically Kufa), linking him to later Semitic lineages."
-            },
-            {
-                "id": 50,
-                "question": "Which Chola King is said to have married Subhadra (Krishna’s sister) in a previous birth legend mentioned in the text?",
-                "answer": "Manojava Pandyan (Note: Text attributes this to a Pandyan in the context of Thiruthangal)."
-            }
-        ]
+        "id": 4,
+        "difficulty": "Hard",
+        "category": "Mythology & Geography",
+        "question": "What rational explanation does the text offer for the mythological 'Milk Ocean' (Paal Kadal)?",
+        "answer": "The text argues that the 'Milk Ocean' located in Saka Dwipa was named for the specific white color or mineral nature of the river waters in that region, not because it literally contained milk."
     },
     {
-        "category": "V. Religious Syncretism (Hinduism, Buddhism, Jainism, Islam, Christianity)",
-        "questions": [
-            {
-                "id": 51,
-                "question": "Who was Pandyan Pulathiyan and what is his shocking connection to the Bible?",
-                "answer": "He was a Pandyan governor in Judaea, identified as Pontius Pilate, who presided over the trial of Jesus."
-            },
-            {
-                "id": 52,
-                "question": "According to the text, where did Jesus Christ (Iso) spend his \"lost years\" studying?",
-                "answer": "At Nalanda University (Buddhism) and in Mylapore/Chennai (Jainism/Saivism)."
-            },
-            {
-                "id": 53,
-                "question": "Who was the Tamil Siddha said to be a descendant of Ashwatthama living in Iraq?",
-                "answer": "Siddhan Bhoga Dathan."
-            },
-            {
-                "id": 54,
-                "question": "How is Siddhan Bhoga Dathan connected to the history of Islam in the text?",
-                "answer": "He protected the family of Hussein (grandson of Prophet Muhammad) during the conflict at Karbala."
-            },
-            {
-                "id": 55,
-                "question": "Which Hindu saint is claimed to have died fighting alongside Hussein?",
-                "answer": "A saint named \"Val\"."
-            },
-            {
-                "id": 56,
-                "question": "What date does the text provide for the birth of Prophet Muhammad?",
-                "answer": "29th August, 571 A.D."
-            },
-            {
-                "id": 57,
-                "question": "Who was the 24th Tirthankara of Jainism and which Magadha King was his contemporary?",
-                "answer": "Mahavira (598–527 B.C.); King Kunikan (Ajatasatru)."
-            },
-            {
-                "id": 58,
-                "question": "Which Pandyan King was converted from Jainism to Saivism by Sambandar?",
-                "answer": "Koon Pandyan (Ninra Seer Nedumaran)."
-            },
-            {
-                "id": 59,
-                "question": "According to the text, where did Adi Sankara establish his Mutts?",
-                "answer": "Kanchipuram, Sringeri, Dwaraka, Badri, and Puri."
-            },
-            {
-                "id": 60,
-                "question": "What is the text's revised birth date for Adi Sankara?",
-                "answer": "509 B.C. (8th April)."
-            },
-            {
-                "id": 61,
-                "question": "Who was the Buddhist monk from Kanchipuram who spread Buddhism to China?",
-                "answer": "Bodhidharma (or Dharmapala)."
-            },
-            {
-                "id": 62,
-                "question": "Which Tamil epic is explicitly stated to be a Buddhist work?",
-                "answer": "Kundalakesi (or Manimekalai)."
-            },
-            {
-                "id": 63,
-                "question": "Which Tamil epic is explicitly stated to be a Jain work?",
-                "answer": "Jivaka Chintamani."
-            },
-            {
-                "id": 64,
-                "question": "Who founded the Visishtadvaita philosophy?",
-                "answer": "Ramanujar (born 1017 A.D.)."
-            },
-            {
-                "id": 65,
-                "question": "Which Chola King persecuted Ramanujar, forcing him to flee to Melkote?",
-                "answer": "Kulothunga Chola I (Krimikanda Chola)."
-            },
-            {
-                "id": 66,
-                "question": "Who founded the Dvaita philosophy?",
-                "answer": "Madhvacharya (Ananda Theertha)."
-            },
-            {
-                "id": 67,
-                "question": "Who established the Samarasa Suddha Sanmargam?",
-                "answer": "Ramalinga Vallalar."
-            },
-            {
-                "id": 68,
-                "question": "Who was the disciple of Jesus who came to Mylapore, India?",
-                "answer": "St. Thomas."
-            },
-            {
-                "id": 69,
-                "question": "According to the text, where did Jesus die?",
-                "answer": "In an ashram near Kashmir."
-            },
-            {
-                "id": 70,
-                "question": "Who was the guru of Guru Nanak (founder of Sikhism)?",
-                "answer": "He had no human guru but preached a path of love uniting Hindus and Muslims."
-            }
-        ]
+        "id": 5,
+        "difficulty": "Medium",
+        "category": "Chronology",
+        "question": "What is the calculated birth date of Lord Rama according to the text's astronomical data?",
+        "answer": "Based on planetary positions in Valmiki Ramayana, the text calculates Rama's birth date as April 21, 7013 B.C., placing him roughly 3900 years before Krishna."
     },
     {
-        "category": "VI. Science, Astronomy & Medicine",
-        "questions": [
-            {
-                "id": 71,
-                "question": "When was the mathematician Aryabhatta born according to the text?",
-                "answer": "21st March, 476 A.D."
-            },
-            {
-                "id": 72,
-                "question": "What specific astronomical fact did Aryabhatta state about the Earth centuries before Galileo?",
-                "answer": "That the Earth rotates on its axis and orbits the Sun."
-            },
-            {
-                "id": 73,
-                "question": "Who discovered the concept of Zero according to the text?",
-                "answer": "Pingala (200 B.C.)."
-            },
-            {
-                "id": 74,
-                "question": "Who is considered the father of Siddha Medicine?",
-                "answer": "Agastya (Agasthiyar)."
-            },
-            {
-                "id": 75,
-                "question": "How many diseases are classified in the Tamil Siddha medical system?",
-                "answer": "4,448 diseases."
-            },
-            {
-                "id": 76,
-                "question": "Which Tamil poetess is credited with knowledge of Atomic Science (Anu)?",
-                "answer": "Avvaiyar (citing her verse on splitting the atom)."
-            },
-            {
-                "id": 77,
-                "question": "What ancient text is cited as containing knowledge about electricity and batteries?",
-                "answer": "Agastya Samhita."
-            },
-            {
-                "id": 78,
-                "question": "Who wrote the Vimaana Nool (Book on Aircraft/Space Travel)?",
-                "answer": "Sage Bharadwaja."
-            },
-            {
-                "id": 79,
-                "question": "What is the \"Sanjeevi\" herb mentioned in the text?",
-                "answer": "A herb found in the Himalayas capable of reviving the dead."
-            },
-            {
-                "id": 80,
-                "question": "What is the \"Mu-ppu\" in Siddha medicine?",
-                "answer": "A universal salt/catalyst used for rejuvenation and medicine."
-            },
-            {
-                "id": 81,
-                "question": "What represents the speed of light in the text's Vedic calculations (by Sayana)?",
-                "answer": "2,202 Yojanas in half a Nimesha."
-            },
-            {
-                "id": 82,
-                "question": "Who wrote the mathematical text Lilavati?",
-                "answer": "Bhaskaracharya."
-            },
-            {
-                "id": 83,
-                "question": "What is the Tamil name for the planet Saturn?",
-                "answer": "Kari."
-            },
-            {
-                "id": 84,
-                "question": "What is the Tamil name for the planet Jupiter?",
-                "answer": "Viyazhan."
-            },
-            {
-                "id": 85,
-                "question": "Who performed the first cataract surgery according to Indian history?",
-                "answer": "Sushruta."
-            }
-        ]
+        "id": 6,
+        "difficulty": "Medium",
+        "category": "Chronology",
+        "question": "What date does the text assign to the birth of Lord Krishna?",
+        "answer": "Lord Krishna's birth is calculated as July 27, 3112 B.C., which the text uses to anchor the timeline of the Mahabharata war and the start of Kali Yuga."
     },
     {
-        "category": "VII. The \"Middle Ages\" & Later Dynasties",
-        "questions": [
-            {
-                "id": 86,
-                "question": "Who established the Vikrama Era in 55 B.C.?",
-                "answer": "Vikramaditya of Ujjain."
-            },
-            {
-                "id": 87,
-                "question": "Who established the Salivahana Era (Saka Era) in 78 A.D.?",
-                "answer": "Salivahana (a potter's son who became King)."
-            },
-            {
-                "id": 88,
-                "question": "Who were the \"Nootruvar Kannar\" mentioned in Tamil literature?",
-                "answer": "The Satakarni Kings (Satavahanas) of Andhra."
-            },
-            {
-                "id": 89,
-                "question": "Who built the Big Temple (Brihadeeswarar) in Thanjavur?",
-                "answer": "Raja Raja Cholan I."
-            },
-            {
-                "id": 90,
-                "question": "Which Chola King conquered the Ganges and assumed the title \"Gangai Konda Cholan\"?",
-                "answer": "Rajendra Chola."
-            },
-            {
-                "id": 91,
-                "question": "Who founded the Vijayanagara Empire to protect Hinduism?",
-                "answer": "Harihara and Bukka, guided by Sage Vidyaranya."
-            },
-            {
-                "id": 92,
-                "question": "Who was the famous Nayak King of Madurai known for his palace?",
-                "answer": "Thirumalai Nayak."
-            },
-            {
-                "id": 93,
-                "question": "Who was the Maratha King who ruled Thanjavur and was a scholar?",
-                "answer": "Serfoji II."
-            },
-            {
-                "id": 94,
-                "question": "Who established the Maratha Kingdom and fought Aurangzeb?",
-                "answer": "Chatrapati Shivaji."
-            },
-            {
-                "id": 95,
-                "question": "Who was Shivaji's spiritual Guru?",
-                "answer": "Samartha Ramdas."
-            },
-            {
-                "id": 96,
-                "question": "Who was the Brahmin minister of Chandragupta Maurya who wrote the Arthashastra?",
-                "answer": "Chanakya (Vishnugupta)."
-            },
-            {
-                "id": 97,
-                "question": "Which Greek ambassador visited Chandragupta Maurya's court?",
-                "answer": "Megasthenes."
-            },
-            {
-                "id": 98,
-                "question": "Who was the Hun leader known for his cruelty in North India?",
-                "answer": "Mihirakula."
-            },
-            {
-                "id": 99,
-                "question": "Which Pallava King was converted from Jainism to Saivism by Appar?",
-                "answer": "Mahendravarman I."
-            },
-            {
-                "id": 100,
-                "question": "Who built the Shore Temple at Mahabalipuram?",
-                "answer": "Rajasimha Pallava."
-            }
-        ]
+        "id": 7,
+        "difficulty": "Easy",
+        "category": "Pandya Dynasty",
+        "question": "Who was the Pandyan King credited with establishing the First Sangam?",
+        "answer": "The First Sangam was established by Kulasekhara Pandya (or early ancestors like Kaysina Vazhuthi) in South Madurai before the great deluges."
     },
     {
-        "category": "VIII. Poets, Literature & Arts",
-        "questions": [
-            {
-                "id": 101,
-                "question": "Who wrote the Thirukkural?",
-                "answer": "Thiruvalluvar."
-            },
-            {
-                "id": 102,
-                "question": "How many couplets does the Thirukkural contain?",
-                "answer": "1,330."
-            },
-            {
-                "id": 103,
-                "question": "Who was Thiruvalluvar's wife?",
-                "answer": "Vasuki."
-            },
-            {
-                "id": 104,
-                "question": "Who wrote the Silappathikaram?",
-                "answer": "Ilango Adigal."
-            },
-            {
-                "id": 105,
-                "question": "Who wrote the Manimekalai?",
-                "answer": "Seethalai Sathanar."
-            },
-            {
-                "id": 106,
-                "question": "Who wrote the Kamba Ramayanam?",
-                "answer": "Kambar."
-            },
-            {
-                "id": 107,
-                "question": "Who was the patron of the poet Kambar?",
-                "answer": "Sadaiyappa Vallal."
-            },
-            {
-                "id": 108,
-                "question": "Who wrote the Periya Puranam?",
-                "answer": "Sekkizhar."
-            },
-            {
-                "id": 109,
-                "question": "Who wrote the Thiruppugazh?",
-                "answer": "Arunagirinathar."
-            },
-            {
-                "id": 110,
-                "question": "Who wrote the Thiruvasagam?",
-                "answer": "Manickavasagar."
-            },
-            {
-                "id": 111,
-                "question": "Who wrote the Thirumandiram?",
-                "answer": "Thirumoolar."
-            },
-            {
-                "id": 112,
-                "question": "Who composed the Thiruppavai?",
-                "answer": "Andal."
-            },
-            {
-                "id": 113,
-                "question": "Who composed the Tiruvaimozhi?",
-                "answer": "Nammalvar."
-            },
-            {
-                "id": 114,
-                "question": "What is the \"Sangam Plank\" (Sanga Palagai)?",
-                "answer": "A miraculous plank in the Golden Lotus Tank of Madurai that judged the worthiness of manuscripts."
-            },
-            {
-                "id": 115,
-                "question": "Who was the court poet of the Chola King Kulothunga II (Anapaya)?",
-                "answer": "Ottakoothar (rival of Kambar)."
-            },
-            {
-                "id": 116,
-                "question": "Which poetess lived for a very long time by eating a \"Nelli\" (Gooseberry) fruit?",
-                "answer": "Avvaiyar."
-            },
-            {
-                "id": 117,
-                "question": "Who wrote the Aathichudi?",
-                "answer": "Avvaiyar."
-            },
-            {
-                "id": 118,
-                "question": "Who wrote the Kanda Puranam?",
-                "answer": "Kachiyappa Sivachariyar."
-            },
-            {
-                "id": 119,
-                "question": "Who is the author of Villiputhurar Bharatham?",
-                "answer": "Villiputhurar."
-            },
-            {
-                "id": 120,
-                "question": "Which Chola King recovered the lost Thevaram manuscripts?",
-                "answer": "Raja Raja Cholan (with Nambiyandar Nambi)."
-            }
-        ]
+        "id": 8,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "What was the specific function of the 'Sangam Plank' (Sanga Palagai) mentioned in the text?",
+        "answer": "The Sangam Plank in the Golden Lotus Tank miraculously judged literary merit by extending to accommodate worthy manuscripts while shrinking to reject flawed works."
     },
     {
-        "category": "IX. Rare Cultural & Historical Claims",
-        "questions": [
-            {
-                "id": 121,
-                "question": "What script does the author propose for the Tamil language to foster integration?",
-                "answer": "The Roman Script."
-            },
-            {
-                "id": 122,
-                "question": "What connects the \"Mayan\" civilization to India according to the text?",
-                "answer": "They are claimed to be descendants of the Asura architect Maya (Mayan)."
-            },
-            {
-                "id": 123,
-                "question": "Who created the Telugu language according to the text?",
-                "answer": "Kanniva Muni."
-            },
-            {
-                "id": 124,
-                "question": "Who founded the Fourth Tamil Sangam in 1901?",
-                "answer": "Pandithurai Thevar."
-            },
-            {
-                "id": 125,
-                "question": "What represents the \"Colossus of Rhodes\" mentioned in the text?",
-                "answer": "A giant statue of the Sun God that fell during an earthquake around 200 A.D."
-            },
-            {
-                "id": 126,
-                "question": "Which Tamil King is said to have sent a delegation to Augustus Caesar?",
-                "answer": "A Pandyan King (c. 20 B.C.)."
-            },
-            {
-                "id": 127,
-                "question": "What is the origin of the word \"Dravidian\" according to the text?",
-                "answer": "From \"Thiravidar\", meaning those who ran/migrated (from the deluge)."
-            },
-            {
-                "id": 128,
-                "question": "Who was the \"Negro\" King listed as a patron of the Tamil Sangam?",
-                "answer": "Niruthi."
-            },
-            {
-                "id": 129,
-                "question": "Which Siddha is said to have entered the body of a parrot?",
-                "answer": "Arunagirinathar."
-            },
-            {
-                "id": 130,
-                "question": "Which Siddha is said to have entered the body of a shepherd named Moolan?",
-                "answer": "Thirumoolar."
-            },
-            {
-                "id": 131,
-                "question": "Who is Manikandan?",
-                "answer": "Lord Ayyappan."
-            },
-            {
-                "id": 132,
-                "question": "Who cured the \"Hunchback Pandyan\" (Koon Pandyan)?",
-                "answer": "Sambandar."
-            },
-            {
-                "id": 133,
-                "question": "Who revived the girl Poompavai from her ashes/bones?",
-                "answer": "Sambandar."
-            },
-            {
-                "id": 134,
-                "question": "What is the significance of \"Jyothi\" in Ramalinga Vallalar's philosophy?",
-                "answer": "God is Light (Arutperunjyothi)."
-            },
-            {
-                "id": 135,
-                "question": "Who wrote the Abhidhamma Pitaka?",
-                "answer": "It is part of the Buddhist Tripitaka (philosophical texts)."
-            },
-            {
-                "id": 136,
-                "question": "Who was the Chola King who invaded Kalinga, celebrated in Kalingattuparani?",
-                "answer": "Kulothunga Chola I."
-            },
-            {
-                "id": 137,
-                "question": "Who destroyed the \"Hanging Forts\" (Thoongu Eyil)?",
-                "answer": "The Chola King Thodithot Sembiyan."
-            },
-            {
-                "id": 138,
-                "question": "What festival's cessation caused the destruction of Poompuhar?",
-                "answer": "The Indra Vizha."
-            },
-            {
-                "id": 139,
-                "question": "Who was the Greek King mentioned as \"Yavana\" in Indian texts?",
-                "answer": "Referring to Ionians (Greeks), specifically Alexander or later Indo-Greek rulers."
-            },
-            {
-                "id": 140,
-                "question": "Which Tamil King ruled Egypt according to the text?",
-                "answer": "Kings with the title \"Kari\" (related to the Chera/Velir lineage)."
-            }
-        ]
+        "id": 9,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "How does the text describe the lineage of Ravana to explain his dual nature?",
+        "answer": "Ravana is described as the son of the Brahmin sage Visravas and the Asura/Rakshasa princess Kaikasi, explaining his combination of Vedic knowledge and aggressive ambition."
     },
     {
-        "category": "X. Dynastic Details (Genealogies)",
-        "questions": [
-            {
-                "id": 141,
-                "question": "Who was the first King of the Sisunaga Dynasty of Magadha?",
-                "answer": "Sisunaga."
-            },
-            {
-                "id": 142,
-                "question": "Who was the last King of the Nanda Dynasty?",
-                "answer": "Dhana Nanda."
-            },
-            {
-                "id": 143,
-                "question": "Who was the son of Bindusara?",
-                "answer": "Ashoka."
-            },
-            {
-                "id": 144,
-                "question": "Who founded the Sunga Dynasty?",
-                "answer": "Pushyamitra Sunga."
-            },
-            {
-                "id": 145,
-                "question": "Who founded the Kanva Dynasty?",
-                "answer": "Vasudeva."
-            },
-            {
-                "id": 146,
-                "question": "Who was the greatest ruler of the Gupta Dynasty?",
-                "answer": "Samudra Gupta (or Chandragupta II)."
-            },
-            {
-                "id": 147,
-                "question": "Who was the King of Kalinga defeated by Ashoka?",
-                "answer": "(Not named, but the Kalinga War is the event)."
-            },
-            {
-                "id": 148,
-                "question": "Who was the Pandyan King who standardized land measurement (Nilan Tharu)?",
-                "answer": "Nilan Tharu Thiruvil Pandyan."
-            },
-            {
-                "id": 149,
-                "question": "Who was the Chola King who built the dam Kallanai?",
-                "answer": "Karikala Cholan."
-            },
-            {
-                "id": 150,
-                "question": "Who was the Chola King known as \"Manuneethi Cholan\" for executing his son to provide justice to a cow?",
-                "answer": "Ellalan (or Manuneethi Cholan)."
-            },
-            {
-                "id": 151,
-                "question": "Who was the Pallava King who was a great wrestler (Mamalla)?",
-                "answer": "Narasimhavarman I."
-            },
-            {
-                "id": 152,
-                "question": "Who was the Chalukya King defeated by Narasimhavarman I?",
-                "answer": "Pulakesin II."
-            },
-            {
-                "id": 153,
-                "question": "Who was the Rashtrakuta King who built the Ellora Kailasanatha temple?",
-                "answer": "Krishna I."
-            },
-            {
-                "id": 154,
-                "question": "Who was the greatest Hoysala King?",
-                "answer": "Vishnuvardhana."
-            },
-            {
-                "id": 155,
-                "question": "Who was the famous Kakatiya King (or Queen)?",
-                "answer": "Pratapa Rudra (or Rudrama Devi)."
-            },
-            {
-                "id": 156,
-                "question": "Who was the Chola King who conquered Kadaram (Malaysia)?",
-                "answer": "Rajendra Chola."
-            },
-            {
-                "id": 157,
-                "question": "Who built the Angkor Wat temple?",
-                "answer": "Suryavarman II (of the Khmer/Indian lineage)."
-            },
-            {
-                "id": 158,
-                "question": "Who was the Pandyan King who ruled during the First Great Deluge?",
-                "answer": "Oli Sembiyan (or early Pandyas like Jayamakirthi)."
-            },
-            {
-                "id": 159,
-                "question": "Who was the Pandyan King who ruled during the Second Great Deluge?",
-                "answer": "Kapadapuram Pandyas."
-            },
-            {
-                "id": 160,
-                "question": "Who was the Pandyan King who ruled during the Third Great Deluge (Poompuhar)?",
-                "answer": "Mudathirumaran III (or contemporaries)."
-            }
-        ]
+        "id": 10,
+        "difficulty": "Medium",
+        "category": "Mahabharata",
+        "question": "Which Chera King is famous for feeding both armies during the Mahabharata war?",
+        "answer": "Perunchotru Uthiyan Cheralathan is famous for providing food to both the Pandava and Kaurava armies during the 18-day war, earning the title 'Great Feeder'."
     },
     {
-        "category": "XI. Temple & Sacred Geography",
-        "questions": [
-            {
-                "id": 161,
-                "question": "How many Shakti Peethams are there?",
-                "answer": "51 (or 108 depending on the tradition cited)."
-            },
-            {
-                "id": 162,
-                "question": "Where is the Kamakshi Shakti Peetham located?",
-                "answer": "Kanchipuram."
-            },
-            {
-                "id": 163,
-                "question": "Where is the Meenakshi Shakti Peetham located?",
-                "answer": "Madurai."
-            },
-            {
-                "id": 164,
-                "question": "Where is the Vishalakshi Shakti Peetham located?",
-                "answer": "Varanasi (Kasi)."
-            },
-            {
-                "id": 165,
-                "question": "Which temple is known as \"Thillai\"?",
-                "answer": "Chidambaram (Nataraja Temple)."
-            },
-            {
-                "id": 166,
-                "question": "Which temple is known as \"Thiruvarangam\"?",
-                "answer": "Srirangam (Ranganathaswamy Temple)."
-            },
-            {
-                "id": 167,
-                "question": "Which temple has the \"Golden Lotus Tank\"?",
-                "answer": "Madurai Meenakshi Temple."
-            },
-            {
-                "id": 168,
-                "question": "Which temple is associated with the Element of Water (Appu Lingam)?",
-                "answer": "Thiruvanaikaval (Jambukeshwarar)."
-            },
-            {
-                "id": 169,
-                "question": "Which temple is associated with the Element of Fire (Agni Lingam)?",
-                "answer": "Thiruvannamalai."
-            },
-            {
-                "id": 170,
-                "question": "Which temple is associated with the Element of Air (Vayu Lingam)?",
-                "answer": "Srikalahasti."
-            },
-            {
-                "id": 171,
-                "question": "Which temple is associated with the Element of Earth (Prithvi Lingam)?",
-                "answer": "Kanchipuram (Ekambareswarar)."
-            },
-            {
-                "id": 172,
-                "question": "Which temple is associated with the Element of Sky (Akasha Lingam)?",
-                "answer": "Chidambaram."
-            },
-            {
-                "id": 173,
-                "question": "How many Divya Desams (Holy Abodes of Vishnu) are there?",
-                "answer": "108."
-            },
-            {
-                "id": 174,
-                "question": "How many Padal Petra Sthalam (Shiva temples sung by Nayanmars) are there?",
-                "answer": "276 (approx)."
-            },
-            {
-                "id": 175,
-                "question": "Which temple is the First Arupadaiveedu (Abode of Murugan)?",
-                "answer": "Thiruparankundram."
-            },
-            {
-                "id": 176,
-                "question": "Which temple is the Second Arupadaiveedu?",
-                "answer": "Tiruchendur."
-            },
-            {
-                "id": 177,
-                "question": "Which temple is the Third Arupadaiveedu?",
-                "answer": "Palani (Thiruvavinankudi)."
-            },
-            {
-                "id": 178,
-                "question": "Which temple is the Fourth Arupadaiveedu?",
-                "answer": "Swamimalai."
-            },
-            {
-                "id": 179,
-                "question": "Which temple is the Fifth Arupadaiveedu?",
-                "answer": "Thiruthani."
-            },
-            {
-                "id": 180,
-                "question": "Which temple is the Sixth Arupadaiveedu?",
-                "answer": "Pazhamudircholai."
-            }
-        ]
+        "id": 11,
+        "difficulty": "Hard",
+        "category": "Siddha Medicine",
+        "question": "What is 'Mu-ppu' in the context of Siddha medicine and alchemy?",
+        "answer": "'Mu-ppu' is a universal salt or catalyst combination used in Siddha alchemy for rejuvenation (Kaya Kalpa) and to stabilize minerals like mercury for medicine."
     },
     {
-        "category": "XII. Miscellaneous & Interesting Facts",
-        "questions": [
-            {
-                "id": 181,
-                "question": "What is the ancient unit of time \"Nazhigai\" equal to in minutes?",
-                "answer": "24 minutes."
-            },
-            {
-                "id": 182,
-                "question": "What is the length of one Maha Yuga in years?",
-                "answer": "4,320,000 years."
-            },
-            {
-                "id": 183,
-                "question": "How many years constitute Kali Yuga?",
-                "answer": "432,000 years."
-            },
-            {
-                "id": 184,
-                "question": "Which plant is used for memory power in Siddha medicine?",
-                "answer": "Vallarai."
-            },
-            {
-                "id": 185,
-                "question": "Which plant is used for jaundice in Siddha medicine?",
-                "answer": "Keezhanelli."
-            },
-            {
-                "id": 186,
-                "question": "Who is the author of Yantra Sarvasva?",
-                "answer": "Sage Bharadwaja."
-            },
-            {
-                "id": 187,
-                "question": "What is the \"Dhruva Nakshatra\"?",
-                "answer": "The Pole Star."
-            },
-            {
-                "id": 188,
-                "question": "Who became the Pole Star?",
-                "answer": "Dhruva."
-            },
-            {
-                "id": 189,
-                "question": "Which star is associated with Arundhati?",
-                "answer": "Alcor (the companion star to Mizar in the Big Dipper/Saptarishi)."
-            },
-            {
-                "id": 190,
-                "question": "Who are the Sapta Rishis (Seven Sages)?",
-                "answer": "Vasishta, Kashyapa, Atri, Jamadagni, Gautama, Vishvamitra, Bharadwaja."
-            },
-            {
-                "id": 191,
-                "question": "Who is the \"Chiranjeevi\" (Immortal) from the Ramayana?",
-                "answer": "Hanuman (and Vibhishana)."
-            },
-            {
-                "id": 192,
-                "question": "Who is the \"Chiranjeevi\" from the Mahabharata?",
-                "answer": "Ashwatthama (and Vyasa)."
-            },
-            {
-                "id": 193,
-                "question": "Who is the \"Chiranjeevi\" King?",
-                "answer": "Mahabali."
-            },
-            {
-                "id": 194,
-                "question": "Who is the \"Chiranjeevi\" Sage?",
-                "answer": "Markandeya."
-            },
-            {
-                "id": 195,
-                "question": "Who is the \"Chiranjeevi\" Avatar?",
-                "answer": "Parashurama."
-            },
-            {
-                "id": 196,
-                "question": "Who is the \"Chiranjeevi\" Teacher?",
-                "answer": "Kripacharya."
-            },
-            {
-                "id": 197,
-                "question": "What is \"Sallekhana\"?",
-                "answer": "A Jain practice of fasting to death."
-            },
-            {
-                "id": 198,
-                "question": "Where did Chandragupta Maurya die?",
-                "answer": "Sravanabelagola (Karnataka)."
-            },
-            {
-                "id": 199,
-                "question": "Who was the Jain monk who migrated South with Chandragupta?",
-                "answer": "Bhadrabahu."
-            },
-            {
-                "id": 200,
-                "question": "Who is the author of this book Bharathavamsavali?",
-                "answer": "Na. Gopalakrishnan."
-            }
-        ]
+        "id": 12,
+        "difficulty": "Medium",
+        "category": "Siddha Medicine",
+        "question": "Which herb is specifically recommended in the text for improving memory power?",
+        "answer": "Vallarai (Centella asiatica) greens are specifically recommended in the text's medical appendix for enhancing memory power and intelligence."
     },
     {
-        "category": "XIII. Advanced Genealogical & Mythological Details",
-        "questions": [
-            {
-                "id": 201,
-                "question": "Who was the wife of Agastya?",
-                "answer": "Lopamudra."
-            },
-            {
-                "id": 202,
-                "question": "Who was the wife of Vasishta?",
-                "answer": "Arundhati."
-            },
-            {
-                "id": 203,
-                "question": "Who was the wife of Atri?",
-                "answer": "Anusuya."
-            },
-            {
-                "id": 204,
-                "question": "Who were the parents of Parasurama?",
-                "answer": "Jamadagni and Renuka."
-            },
-            {
-                "id": 205,
-                "question": "Who was the mother of the Pandavas?",
-                "answer": "Kunti (and Madri)."
-            },
-            {
-                "id": 206,
-                "question": "Who was the mother of the Kauravas?",
-                "answer": "Gandhari."
-            },
-            {
-                "id": 207,
-                "question": "Who was the minister of Dhritarashtra?",
-                "answer": "Vidura."
-            },
-            {
-                "id": 208,
-                "question": "Who was the Charioteer of Arjuna?",
-                "answer": "Lord Krishna."
-            },
-            {
-                "id": 209,
-                "question": "Who killed Jarasandha?",
-                "answer": "Bhima."
-            },
-            {
-                "id": 210,
-                "question": "Who was the King of Chedi killed by Krishna?",
-                "answer": "Shishupala."
-            },
-            {
-                "id": 211,
-                "question": "Who was the King of Anga?",
-                "answer": "Karna."
-            },
-            {
-                "id": 212,
-                "question": "Who was the father of Karna?",
-                "answer": "Surya (The Sun God)."
-            },
-            {
-                "id": 213,
-                "question": "Who granted Kunti the boon to bear children from Devas?",
-                "answer": "Sage Durvasa."
-            },
-            {
-                "id": 214,
-                "question": "Who killed Kamsa?",
-                "answer": "Lord Krishna."
-            },
-            {
-                "id": 215,
-                "question": "Who ruled Magadha during the time of Krishna?",
-                "answer": "Jarasandha."
-            },
-            {
-                "id": 216,
-                "question": "Who saved the fetus of Parikshit from Ashwatthama's weapon?",
-                "answer": "Lord Krishna."
-            },
-            {
-                "id": 217,
-                "question": "Who was the father of Abhimanyu?",
-                "answer": "Arjuna."
-            },
-            {
-                "id": 218,
-                "question": "Who was the wife of Abhimanyu?",
-                "answer": "Uttara."
-            },
-            {
-                "id": 219,
-                "question": "Who taught Arjuna the military arts?",
-                "answer": "Dronacharya."
-            },
-            {
-                "id": 220,
-                "question": "Who was the son of Dronacharya?",
-                "answer": "Ashwatthama."
-            },
-            {
-                "id": 221,
-                "question": "Who was the Guru of the Pandavas and Kauravas?",
-                "answer": "Dronacharya."
-            },
-            {
-                "id": 222,
-                "question": "Who was the family priest (Kula Guru) of the Pandavas?",
-                "answer": "Dhaumya."
-            },
-            {
-                "id": 223,
-                "question": "Who wrote the Mahabharata in Sanskrit?",
-                "answer": "Veda Vyasa."
-            },
-            {
-                "id": 224,
-                "question": "Who wrote the Ramayana in Sanskrit?",
-                "answer": "Valmiki."
-            },
-            {
-                "id": 225,
-                "question": "Who founded the city of Ayodhya?",
-                "answer": "Vaivasvatha Manu."
-            },
-            {
-                "id": 226,
-                "question": "Who brought the River Ganges to earth?",
-                "answer": "Bhagiratha."
-            },
-            {
-                "id": 227,
-                "question": "Which King gave his name to the country Bharata?",
-                "answer": "Bharata (son of Dushyanta and Shakuntala)."
-            },
-            {
-                "id": 228,
-                "question": "Who was the wife of Dushyanta?",
-                "answer": "Shakuntala."
-            },
-            {
-                "id": 229,
-                "question": "Who was the father of Shakuntala?",
-                "answer": "Sage Viswamitra."
-            },
-            {
-                "id": 230,
-                "question": "Who was the mother of Shakuntala?",
-                "answer": "Menaka (the celestial nymph)."
-            }
-        ]
+        "id": 13,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "What is the ancient Tamil name for the musical note Shadjam (Sa)?",
+        "answer": "The ancient Tamil name for the musical note Shadjam (Sa) is 'Kural'."
     },
     {
-        "category": "XIV. Tamil Kings and Special Titles",
-        "questions": [
-            {
-                "id": 231,
-                "question": "Which Pandyan King had the title \"Palyaga Salai\" (One with many sacrificial halls)?",
-                "answer": "Mudukudumi Peru Vazhuthi."
-            },
-            {
-                "id": 232,
-                "question": "Which Chola King had the title \"Thodithot Sembiyan\"?",
-                "answer": "A Chola King who destroyed hanging forts."
-            },
-            {
-                "id": 233,
-                "question": "Which Chera King had the title \"Imayavaramban\" (One who had the Himalayas as his boundary)?",
-                "answer": "Neduncheralathan."
-            },
-            {
-                "id": 234,
-                "question": "Which Pandyan King had the title \"Talayalanganathu Seruvendra\"?",
-                "answer": "Nedunchezhiyan (Victor of Talayalanganam)."
-            },
-            {
-                "id": 235,
-                "question": "Which Chola King had the title \"Rajasuyam Vetta\" (Performer of Rajasuya Yaga)?",
-                "answer": "Perunarkilli."
-            },
-            {
-                "id": 236,
-                "question": "Which Pandyan King had the title \"Aryappadai Kadantha\" (Conqueror of Aryan armies)?",
-                "answer": "Nedunchezhiyan (of Silappathikaram fame)."
-            },
-            {
-                "id": 237,
-                "question": "Which Chola King had the title \"Manakkilli\"?",
-                "answer": "Nedunkilli."
-            },
-            {
-                "id": 238,
-                "question": "Which Pallava King had the title \"Vatapi Konda\"?",
-                "answer": "Narasimhavarman I."
-            },
-            {
-                "id": 239,
-                "question": "Which Chola King had the title \"Madurai Konda\"?",
-                "answer": "Parantaka Chola I."
-            },
-            {
-                "id": 240,
-                "question": "Which Pandya King had the title \"Kollam Konda\"?",
-                "answer": "Maran Sadaiyan."
-            }
-        ]
+        "id": 14,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which animal's sound is associated with the Tamil musical note 'Ili' (Pa)?",
+        "answer": "The note 'Ili' (Pa/Panchamam) is associated with the sound of the Cuckoo (Kuyil)."
     },
     {
-        "category": "XV. Saints and Philosophers",
-        "questions": [
-            {
-                "id": 241,
-                "question": "Who was the First Alwar?",
-                "answer": "Poigai Alvar."
-            },
-            {
-                "id": 242,
-                "question": "Who was the Second Alwar?",
-                "answer": "Bhoothath Alvar."
-            },
-            {
-                "id": 243,
-                "question": "Who was the Third Alwar?",
-                "answer": "Pey Alvar."
-            },
-            {
-                "id": 244,
-                "question": "Who was the female Alwar?",
-                "answer": "Andal."
-            },
-            {
-                "id": 245,
-                "question": "Who was the Alwar who was a King?",
-                "answer": "Kulasekhara Alvar."
-            },
-            {
-                "id": 246,
-                "question": "Who was the Alwar who was a Dalit (Panar)?",
-                "answer": "Thiruppan Alvar."
-            },
-            {
-                "id": 247,
-                "question": "Who was the Nayanmar who gave his eyes to Shiva?",
-                "answer": "Kannappa Nayanar."
-            },
-            {
-                "id": 248,
-                "question": "Who was the Nayanmar who was a woman?",
-                "answer": "Karaikkal Ammaiyar (and Mangayarkkarasiyar)."
-            },
-            {
-                "id": 249,
-                "question": "Who was the Nayanmar who was a General?",
-                "answer": "Siruthonda Nayanar (Paranjothi)."
-            },
-            {
-                "id": 250,
-                "question": "Who was the Nayanmar who was a King (Chera)?",
-                "answer": "Cheraman Perumal Nayanar."
-            },
-            {
-                "id": 251,
-                "question": "Who was the Nayanmar who composed the Thevaram (along with Appar/Sambandar)?",
-                "answer": "Sundarar."
-            },
-            {
-                "id": 252,
-                "question": "Who wrote Thirumandiram?",
-                "answer": "Thirumoolar."
-            },
-            {
-                "id": 253,
-                "question": "Who wrote Thiruvachakam?",
-                "answer": "Manickavasagar."
-            },
-            {
-                "id": 254,
-                "question": "Who wrote Thiruppallandu?",
-                "answer": "Periyalwar."
-            },
-            {
-                "id": 255,
-                "question": "Who wrote Periya Puranam?",
-                "answer": "Sekkizhar."
-            },
-            {
-                "id": 256,
-                "question": "Who wrote Kandar Anubhuti?",
-                "answer": "Arunagirinathar."
-            },
-            {
-                "id": 257,
-                "question": "Who wrote Abhirami Antadhi?",
-                "answer": "Abhirami Bhattar."
-            },
-            {
-                "id": 258,
-                "question": "Who established the Ramakrishna Math?",
-                "answer": "Swami Vivekananda."
-            },
-            {
-                "id": 259,
-                "question": "Who was the Guru of Swami Vivekananda?",
-                "answer": "Ramakrishna Paramahamsa."
-            },
-            {
-                "id": 260,
-                "question": "Who established the Kanchi Kamakoti Peetham?",
-                "answer": "Adi Sankara."
-            }
-        ]
+        "id": 15,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Who does the text identify as 'Pandyan Pulathiyan' in the context of Roman history?",
+        "answer": "The text identifies 'Pandyan Pulathiyan' as Pontius Pilate, claiming he was a Pandyan official in Judea who presided over the trial of Jesus."
     },
     {
-        "category": "XVI. Geographic and Modern Identification",
-        "questions": [
-            {
-                "id": 261,
-                "question": "What modern country corresponds to Gandhara?",
-                "answer": "Afghanistan (Kandahar/Kabul region)."
-            },
-            {
-                "id": 262,
-                "question": "What modern country corresponds to Kamboja?",
-                "answer": "Cambodia (or ancient regions near Kashmir/Afghanistan depending on context)."
-            },
-            {
-                "id": 263,
-                "question": "What modern region is Vanga?",
-                "answer": "Bengal."
-            },
-            {
-                "id": 264,
-                "question": "What modern region is Kalinga?",
-                "answer": "Odisha."
-            },
-            {
-                "id": 265,
-                "question": "What modern region is Magadha?",
-                "answer": "Bihar."
-            },
-            {
-                "id": 266,
-                "question": "What modern region is Avanti?",
-                "answer": "Malwa (Madhya Pradesh)."
-            },
-            {
-                "id": 267,
-                "question": "What modern region is Kosala?",
-                "answer": "Uttar Pradesh (Ayodhya region)."
-            },
-            {
-                "id": 268,
-                "question": "What modern region is Matsya?",
-                "answer": "Rajasthan (Jaipur region)."
-            },
-            {
-                "id": 269,
-                "question": "What modern region is Vidarbha?",
-                "answer": "Maharashtra (Nagpur region)."
-            },
-            {
-                "id": 270,
-                "question": "What modern region is Kamarupa?",
-                "answer": "Assam."
-            }
-        ]
+        "id": 16,
+        "difficulty": "Medium",
+        "category": "Religion",
+        "question": "According to the text, when was Adi Sankara born, contradicting standard history?",
+        "answer": "The text places Adi Sankara's birth in 509 B.C., significantly earlier than the standard 8th Century A.D. dating."
     },
     {
-        "category": "XVII. Rare Textual Details",
-        "questions": [
-            {
-                "id": 271,
-                "question": "What is the \"Tripitaka\"?",
-                "answer": "The \"Three Baskets\" of Buddhist scriptures (Sutta, Vinaya, Abhidhamma)."
-            },
-            {
-                "id": 272,
-                "question": "What is the \"Agastya Samhita\" known for?",
-                "answer": "It purportedly contains descriptions of electric batteries."
-            },
-            {
-                "id": 273,
-                "question": "Who wrote Brihat Samhita?",
-                "answer": "Varahamihira."
-            },
-            {
-                "id": 274,
-                "question": "Who wrote Sushruta Samhita?",
-                "answer": "Sushruta."
-            },
-            {
-                "id": 275,
-                "question": "Who wrote Charaka Samhita?",
-                "answer": "Charaka."
-            },
-            {
-                "id": 276,
-                "question": "Who wrote Ashtadhyayi (Sanskrit Grammar)?",
-                "answer": "Panini."
-            },
-            {
-                "id": 277,
-                "question": "Who wrote Mahabhasya?",
-                "answer": "Patanjali."
-            },
-            {
-                "id": 278,
-                "question": "Who wrote Natya Shastra?",
-                "answer": "Bharata Muni."
-            },
-            {
-                "id": 279,
-                "question": "Who wrote Meghadutam?",
-                "answer": "Kalidasa."
-            },
-            {
-                "id": 280,
-                "question": "Who wrote Sakuntalam?",
-                "answer": "Kalidasa."
-            },
-            {
-                "id": 281,
-                "question": "Who wrote Silappathikaram?",
-                "answer": "Ilango Adigal."
-            },
-            {
-                "id": 282,
-                "question": "Who wrote Civaka Cintamani?",
-                "answer": "Thiruthakka Thevar."
-            },
-            {
-                "id": 283,
-                "question": "Who wrote Valayapathi?",
-                "answer": "Unknown."
-            },
-            {
-                "id": 284,
-                "question": "Who wrote Kundalakesi?",
-                "answer": "Unknown (Nathakuthana)."
-            },
-            {
-                "id": 285,
-                "question": "Who wrote Yapparungalam?",
-                "answer": "Amritasagara."
-            },
-            {
-                "id": 286,
-                "question": "Who wrote Nannul?",
-                "answer": "Bavanandi Munivar."
-            },
-            {
-                "id": 287,
-                "question": "Who wrote Veerasozhiyam?",
-                "answer": "Buddhamitra."
-            },
-            {
-                "id": 288,
-                "question": "Who wrote Thiruvilayadal Puranam?",
-                "answer": "Paranjothi Munivar."
-            },
-            {
-                "id": 289,
-                "question": "Who wrote Kanda Puranam?",
-                "answer": "Kachiyappa Sivachariyar."
-            },
-            {
-                "id": 290,
-                "question": "Who wrote Nalayira Divya Prabandham?",
-                "answer": "The Alvars (Compiled by Nathamuni)."
-            }
-        ]
+        "id": 17,
+        "difficulty": "Medium",
+        "category": "Architecture",
+        "question": "Which Chola King is credited with inscribing the Tiger crest on Mount Meru/Himalayas?",
+        "answer": "Karikala Chola is credited with the expedition to the Himalayas where he inscribed the Tiger crest, symbolizing Tamil supremacy over the north."
     },
     {
-        "category": "XVIII. Final Mixed Bag",
-        "questions": [
-            {
-                "id": 291,
-                "question": "Who was the Chola King who invaded Sri Lanka and ruled for 44 years?",
-                "answer": "Elara."
-            },
-            {
-                "id": 292,
-                "question": "Who was the Pallava King who was a patron of the poet Bharavi?",
-                "answer": "Simhavishnu."
-            },
-            {
-                "id": 293,
-                "question": "Who was the Pandya King associated with the \"Sangam Plank\" legend?",
-                "answer": "Ugra Peru Vazhuthi."
-            },
-            {
-                "id": 294,
-                "question": "Who was the Pandya King who converted to Jainism and back to Saivism?",
-                "answer": "Koon Pandyan."
-            },
-            {
-                "id": 295,
-                "question": "Who was the Chola King associated with the \"Golden Roof\" of Chidambaram?",
-                "answer": "Parantaka Chola I."
-            },
-            {
-                "id": 296,
-                "question": "Who was the Chola King who surveyed the land?",
-                "answer": "Raja Raja Chola I."
-            },
-            {
-                "id": 297,
-                "question": "Who was the Pandyan King who died of a broken heart for Kannagi?",
-                "answer": "Nedunchezhiyan."
-            },
-            {
-                "id": 298,
-                "question": "Who was the Chera King who ascended to heaven with Sundarar?",
-                "answer": "Cheraman Perumal."
-            },
-            {
-                "id": 299,
-                "question": "Who was the Pallava King who built the Kanchi Kailasanathar Temple?",
-                "answer": "Rajasimha (Narasimhavarman II)."
-            },
-            {
-                "id": 300,
-                "question": "Who was the Chola King who built the Gangaikonda Cholapuram temple?",
-                "answer": "Rajendra Chola I."
-            }
-        ]
+        "id": 18,
+        "difficulty": "Easy",
+        "category": "Literature",
+        "question": "Who wrote the Tamil epic 'Silappathikaram'?",
+        "answer": "Ilango Adigal, the brother of the Chera King Senguttuvan, wrote the epic 'Silappathikaram'."
+    },
+    {
+        "id": 19,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who authored the Tamil grammar text 'Nannul'?",
+        "answer": "Bavanandi Munivar is the author of the Tamil grammar text 'Nannul'."
+    },
+    {
+        "id": 20,
+        "difficulty": "Hard",
+        "category": "Global Connections",
+        "question": "What connection does the text draw between the Cholas and the Inca civilization of Peru?",
+        "answer": "The text connects 'Inca' to the Chola 'Inan' (Sun) lineage, citing the massive Trident symbol in Pisco Bay as evidence of ancient Tamil presence in the Americas."
+    },
+    {
+        "id": 21,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Which temple is known as the 'Root Element Shrine' (Mooladhara Kshetram)?",
+        "answer": "The Thyagaraja Swamy temple in Thiruvarur is known as the Mooladhara Kshetram."
+    },
+    {
+        "id": 22,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Panchamukha' (Five-faced) Shiva Lingam located?",
+        "answer": "The Panchamukha Shiva Lingam is located at the Jambukeshwarar Temple in Thiruvanaikkaval."
+    },
+    {
+        "id": 23,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "How does the text explain the origin of the 'Yavana' (Greek) kings?",
+        "answer": "The text claims the Yavanas were descendants of Turvasu, a son of King Yayati of the Lunar Dynasty, who migrated westward."
+    },
+    {
+        "id": 24,
+        "difficulty": "Medium",
+        "category": "Siddha Medicine",
+        "question": "What is the recommended remedy for jaundice (Kamalai) in the text?",
+        "answer": "Keezhanelli (Phyllanthus niruri) ground with curd or milk is the recommended remedy for jaundice."
+    },
+    {
+        "id": 25,
+        "difficulty": "Medium",
+        "category": "Siddha Medicine",
+        "question": "What remedy is suggested for scorpion stings?",
+        "answer": "Eating coconut (Kopparai) or applying a specific paste of salt and indigo is suggested for scorpion stings."
+    },
+    {
+        "id": 26,
+        "difficulty": "Hard",
+        "category": "Ancient Science",
+        "question": "What does the 'Agastya Samhita' describe regarding electricity?",
+        "answer": "The 'Agastya Samhita' describes a method to generate electricity (Mitra-Varuna Tejas) using a battery-like setup with copper, zinc, and wet sawdust."
+    },
+    {
+        "id": 27,
+        "difficulty": "Easy",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the planet Mercury?",
+        "answer": "The Tamil name for Mercury is 'Arivan' (or Puthan), highlighting its association with intellect."
+    },
+    {
+        "id": 28,
+        "difficulty": "Medium",
+        "category": "Chronology",
+        "question": "When did the Kali Yuga begin according to the text?",
+        "answer": "The text states that the Kali Yuga began on February 18, 3102 B.C., based on specific planetary conjunctions."
+    },
+    {
+        "id": 29,
+        "difficulty": "Medium",
+        "category": "Pandya Dynasty",
+        "question": "Which Pandyan King standardized land measurement after a deluge?",
+        "answer": "Nilam Tharu Thiruvil Pandyan is credited with surveying and standardizing land measurement after the loss of territory to the sea."
+    },
+    {
+        "id": 30,
+        "difficulty": "Hard",
+        "category": "Chola Dynasty",
+        "question": "Which Chola King destroyed the 'Hanging Forts' (Thoongu Eyil)?",
+        "answer": "The Chola King Thodithot Sembiyan is credited with destroying the aerial 'Hanging Forts' of the Asuras."
+    },
+    {
+        "id": 31,
+        "difficulty": "Easy",
+        "category": "Literature",
+        "question": "Who composed the 'Kamba Ramayanam'?",
+        "answer": "The poet Kambar composed the 'Kamba Ramayanam' in Tamil."
+    },
+    {
+        "id": 32,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who was the patron of the poet Kambar?",
+        "answer": "Sadaiyappa Vallal was the famous patron who supported Kambar."
+    },
+    {
+        "id": 33,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who are the Ashta Vasus mentioned in the text?",
+        "answer": "The Ashta Vasus are the eight elemental deities: Apa (Water), Dhruva (Pole Star), Soma (Moon), Dhara (Earth), Anila (Wind), Anala (Fire), Pratyusha (Dawn), and Prabhasa (Light)."
+    },
+    {
+        "id": 34,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Mathrubhutheswarar' (Lord who became Mother)?",
+        "answer": "Mathrubhutheswarar is the presiding deity at the Rockfort temple in Tiruchirappalli."
+    },
+    {
+        "id": 35,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Sarangapani' temple located?",
+        "answer": "The Sarangapani temple is located in Kumbakonam (Thirukkudanthai)."
+    },
+    {
+        "id": 36,
+        "difficulty": "Hard",
+        "category": "Global Connections",
+        "question": "What is the significance of the Nazca Lines in Peru according to the text?",
+        "answer": "The text interprets the Nazca Lines as ancient landing strips or signals for 'Vimanas' (aircraft)."
+    },
+    {
+        "id": 37,
+        "difficulty": "Easy",
+        "category": "Literature",
+        "question": "Who wrote 'Thiruppugazh'?",
+        "answer": "Arunagirinathar wrote 'Thiruppugazh', a collection of songs in praise of Lord Murugan."
+    },
+    {
+        "id": 38,
+        "difficulty": "Medium",
+        "category": "Saivism",
+        "question": "Which Nayanmar gave his eyes to Lord Shiva?",
+        "answer": "Kannappa Nayanar, a hunter, plucked out his own eyes to replace the bleeding eyes of the Shiva Lingam."
+    },
+    {
+        "id": 39,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "To which clan did Krishna's foster father Nanda Gopa belong?",
+        "answer": "Nanda Gopa belonged to the Yadava (cowherd) clan, specifically the lineage of Parjanya."
+    },
+    {
+        "id": 40,
+        "difficulty": "Medium",
+        "category": "Chronology",
+        "question": "What astronomical event coincides with the death of Khara and Dushana in the Ramayana?",
+        "answer": "The text links their death to a solar eclipse that occurred on October 7, 6976 B.C."
+    },
+    {
+        "id": 41,
+        "difficulty": "Easy",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Ashwini'?",
+        "answer": "The Tamil name for the star 'Ashwini' is 'Kuthirai Thalai' (Horse's Head)."
+    },
+    {
+        "id": 42,
+        "difficulty": "Medium",
+        "category": "Geography",
+        "question": "What is 'Kapata Puram'?",
+        "answer": "Kapata Puram was the capital of the Pandya Kingdom during the Middle Sangam period, eventually submerged by the sea."
+    },
+    {
+        "id": 43,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who was the son of the Vasu Prabhasa?",
+        "answer": "Viswakarma, the divine architect, is listed as the son of the Vasu Prabhasa."
+    },
+    {
+        "id": 44,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the 'Emerald' (Maragatha) Lingam?",
+        "answer": "The text associates the Emerald Lingam primarily with Thirueengoimalai and the Tyagaraja shrine in Thiruvarur."
+    },
+    {
+        "id": 45,
+        "difficulty": "Medium",
+        "category": "Lineage",
+        "question": "Who was the last king of the Solar Dynasty to fight in the Mahabharata war?",
+        "answer": "Brihadbala was the last Solar Dynasty king, killed by Abhimanyu in the Mahabharata war."
+    },
+    {
+        "id": 46,
+        "difficulty": "Easy",
+        "category": "Language",
+        "question": "Which text is considered the 'Tamil Veda'?",
+        "answer": "The 'Thirukkural' (and sometimes Nammalwar's Thiruvaimozhi) is revered as the Tamil Veda."
+    },
+    {
+        "id": 47,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "How does the text interpret the digestion of Vatapi by Agastya?",
+        "answer": "Instead of a magical digestion, the text interprets it as Agastya's military victory over the Asura king Vatapi."
+    },
+    {
+        "id": 48,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Periya Puranam'?",
+        "answer": "Sekkizhar wrote 'Periya Puranam', detailing the lives of the 63 Nayanmars."
+    },
+    {
+        "id": 49,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Kanda Puranam' in Tamil?",
+        "answer": "Kachiyappa Sivachariyar wrote the 'Kanda Puranam' in Tamil."
+    },
+    {
+        "id": 50,
+        "difficulty": "Hard",
+        "category": "Ancient Science",
+        "question": "Who is credited with discovering the concept of Zero in the text?",
+        "answer": "The text credits Pingala (c. 200 B.C.) with the concept of Zero, predating standard attributions to Aryabhatta."
+    },
+    {
+        "id": 51,
+        "difficulty": "Easy",
+        "category": "Lineage",
+        "question": "Who was the father of Vasudeva?",
+        "answer": "Surasena (Shoora) was the father of Vasudeva."
+    },
+    {
+        "id": 52,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "What is the 'Tripitaka'?",
+        "answer": "The 'Tripitaka' refers to the 'Three Baskets' of Buddhist scriptures: Vinaya, Sutta, and Abhidhamma."
+    },
+    {
+        "id": 53,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Nataraja' temple representing the Sky element located?",
+        "answer": "The Nataraja temple representing the Sky (Akasha) element is located in Chidambaram."
+    },
+    {
+        "id": 54,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "To where does the text claim Ashwatthama migrated after the Mahabharata war?",
+        "answer": "The text claims Ashwatthama migrated to the Arabian/Iraq region (Kufa), linking him to later Semitic lineages."
+    },
+    {
+        "id": 55,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Oppiliappan'?",
+        "answer": "Oppiliappan is the presiding deity at Thirunageswaram."
+    },
+    {
+        "id": 56,
+        "difficulty": "Medium",
+        "category": "Music",
+        "question": "What is the ancient Tamil name for the Raga 'Shankarabharanam'?",
+        "answer": "The ancient Tamil name for Shankarabharanam is 'Pazham Panchuram'."
+    },
+    {
+        "id": 57,
+        "difficulty": "Hard",
+        "category": "Ancient Geography",
+        "question": "Which modern region corresponds to 'Krauncha Dwipa' in the text?",
+        "answer": "Krauncha Dwipa corresponds to the region of Greece and Turkey (Heron Island)."
+    },
+    {
+        "id": 58,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Eye Pain' involving Aloe Vera?",
+        "answer": "Applying the pulp of Sotru Katrazhai (Aloe Vera) on the eyes is the remedy."
+    },
+    {
+        "id": 59,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who founded the Vijayanagara Empire?",
+        "answer": "Harihara and Bukka are credited with founding the Vijayanagara Empire."
+    },
+    {
+        "id": 60,
+        "difficulty": "Hard",
+        "category": "Chronology",
+        "question": "When does the 'Vikrama Era' begin according to the text?",
+        "answer": "The Vikrama Era begins in 57 B.C., commemorating King Vikramaditya's victory over the Sakas."
+    },
+    {
+        "id": 61,
+        "difficulty": "Easy",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the planet Jupiter?",
+        "answer": "The Tamil name for Jupiter is 'Viyazhan'."
+    },
+    {
+        "id": 62,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Thiruvasagam'?",
+        "answer": "Manickavasagar is the author of 'Thiruvasagam'."
+    },
+    {
+        "id": 63,
+        "difficulty": "Hard",
+        "category": "Ancient History",
+        "question": "Who was the 'Negro' King mentioned as a patron of the Tamil Sangam?",
+        "answer": "Niruthi is mentioned as a 'Negro' King from Kusa Dwipa (Africa) who patronized the Sangam."
+    },
+    {
+        "id": 64,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Vaitheeswaran Koil' located?",
+        "answer": "Vaitheeswaran Koil is located in Pullirukkuvelur."
+    },
+    {
+        "id": 65,
+        "difficulty": "Easy",
+        "category": "Literature",
+        "question": "Who wrote 'Thirumandiram'?",
+        "answer": "Thirumoolar is the author of 'Thirumandiram'."
+    },
+    {
+        "id": 66,
+        "difficulty": "Medium",
+        "category": "Lineage",
+        "question": "Who was the father of Kunti by birth?",
+        "answer": "Surasena was the birth father of Kunti (Pritha), who was later adopted by Kuntibhoja."
+    },
+    {
+        "id": 67,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who is the guardian of the North-East direction?",
+        "answer": "Isana (a form of Shiva) is the guardian of the North-East direction."
+    },
+    {
+        "id": 68,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Kallazhagar'?",
+        "answer": "Kallazhagar is the presiding deity at Alagarkoil (Thirumaliruncholai)."
+    },
+    {
+        "id": 69,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which bird is associated with the note 'Uzhai' (Ma)?",
+        "answer": "The Heron/Crane (Kokku) is associated with the note 'Uzhai' (Ma)."
+    },
+    {
+        "id": 70,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Who does the text claim Jesus Christ (Iso) studied with in India?",
+        "answer": "The text claims Jesus studied Buddhism at Nalanda and Saivism/Jainism in Mylapore and Kanchipuram."
+    },
+    {
+        "id": 71,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the Chola King known as 'Gangai Konda'?",
+        "answer": "Rajendra Chola I is known as 'Gangai Konda' for his expedition to the Ganges."
+    },
+    {
+        "id": 72,
+        "difficulty": "Easy",
+        "category": "History",
+        "question": "Who built the Taj Mahal?",
+        "answer": "Shah Jahan built the Taj Mahal."
+    },
+    {
+        "id": 73,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Abhirami Antadhi'?",
+        "answer": "Abhirami Bhattar wrote 'Abhirami Antadhi'."
+    },
+    {
+        "id": 74,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Abhimanyu to the throne of Hastinapura?",
+        "answer": "Parikshit, Abhimanyu's son, succeeded him to the throne."
+    },
+    {
+        "id": 75,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Srivilliputhur Andal' temple located?",
+        "answer": "The Srivilliputhur Andal temple is located in Srivilliputhur."
+    },
+    {
+        "id": 76,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Cold and Cough'?",
+        "answer": "Drinking Tulsi juice or Adathoda decoction is the remedy for cold and cough."
+    },
+    {
+        "id": 77,
+        "difficulty": "Hard",
+        "category": "Ancient Geography",
+        "question": "What happened to the city of Poompuhar?",
+        "answer": "Poompuhar was destroyed by a massive tsunami or deluge (Kadalkol)."
+    },
+    {
+        "id": 78,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the 'Cosmic Dance' (Nataraja)?",
+        "answer": "The Chidambaram temple is associated with the Cosmic Dance of Nataraja."
+    },
+    {
+        "id": 79,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Jivaka Chintamani'?",
+        "answer": "Thiruthakka Thevar is the author of 'Jivaka Chintamani'."
+    },
+    {
+        "id": 80,
+        "difficulty": "Hard",
+        "category": "Ancient Science",
+        "question": "Who calculated the speed of light according to the text?",
+        "answer": "Sayana, a commentator on the Vedas, is credited with calculating the speed of light."
+    },
+    {
+        "id": 81,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Which temple is known as 'Dakshina Kailasam'?",
+        "answer": "Thirukalahasti (and sometimes Thiruvaiyaru) is known as 'Dakshina Kailasam'."
+    },
+    {
+        "id": 82,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the Pallava King converted from Jainism to Saivism by Appar?",
+        "answer": "Mahendravarman I was converted from Jainism to Saivism by Appar."
+    },
+    {
+        "id": 83,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "How many 'Nadus' was Kumari Kandam divided into?",
+        "answer": "Kumari Kandam was divided into 49 Nadus."
+    },
+    {
+        "id": 84,
+        "difficulty": "Easy",
+        "category": "Religion",
+        "question": "Who founded the Sringeri Sharada Peetham?",
+        "answer": "Adi Sankara founded the Sringeri Sharada Peetham."
+    },
+    {
+        "id": 85,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Manimekalai'?",
+        "answer": "Seethalai Sathanar is the author of 'Manimekalai'."
+    },
+    {
+        "id": 86,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who was the son of the Vasu Anala (Fire)?",
+        "answer": "Skanda/Kartikeya is listed as the son of the Vasu Anala."
+    },
+    {
+        "id": 87,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Ramanathaswamy' temple located?",
+        "answer": "The Ramanathaswamy temple is located in Rameswaram."
+    },
+    {
+        "id": 88,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Headache'?",
+        "answer": "Applying a paste of Neem seeds on the forehead is the remedy for headache."
+    },
+    {
+        "id": 89,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the greatest ruler of the Gupta Dynasty mentioned?",
+        "answer": "Samudra Gupta (or Chandragupta II) is considered the greatest ruler of the Gupta Dynasty."
+    },
+    {
+        "id": 90,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "What is the 'Sangam Plank' (Sanga Palagai)?",
+        "answer": "It was a miraculous plank in the Golden Lotus Tank at Madurai used to judge the merit of literary works."
+    },
+    {
+        "id": 91,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Sowriraja Perumal'?",
+        "answer": "Sowriraja Perumal is the presiding deity at Thirukkannapuram."
+    },
+    {
+        "id": 92,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "What is the Tamil name for the musical note 'Rishabham' (Ri)?",
+        "answer": "The Tamil name for 'Rishabham' is 'Thuttham'."
+    },
+    {
+        "id": 93,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Who does the text claim built the Angkor Wat?",
+        "answer": "The text claims Suryavarman II, a descendant of Indian lineage, built Angkor Wat."
+    },
+    {
+        "id": 94,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Nalayira Divya Prabandham' (Compilation)?",
+        "answer": "Nathamuni compiled the 'Nalayira Divya Prabandham'."
+    },
+    {
+        "id": 95,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Where is the 'Golden Lotus Tank' located?",
+        "answer": "The Golden Lotus Tank (Potramarai Kulam) is located inside the Madurai Meenakshi Amman Temple."
+    },
+    {
+        "id": 96,
+        "difficulty": "Medium",
+        "category": "Lineage",
+        "question": "Who was the father of King Dasharatha?",
+        "answer": "King Aja was the father of King Dasharatha."
+    },
+    {
+        "id": 97,
+        "difficulty": "Hard",
+        "category": "Ancient Geography",
+        "question": "What implies the existence of a developed civilization in Kumari Kandam according to the text?",
+        "answer": "The naming of 49 Nadus based on agricultural types (e.g., Coconut Land) implies a structured agrarian society."
+    },
+    {
+        "id": 98,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who founded the 'Swadeshi Steam Navigation Company'?",
+        "answer": "V.O. Chidambaram Pillai (V.O.C.) founded the 'Swadeshi Steam Navigation Company'."
+    },
+    {
+        "id": 99,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Toothache'?",
+        "answer": "Chewing Clove (Krambu) or gargling with salt water is the remedy for toothache."
+    },
+    {
+        "id": 100,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Rohini'?",
+        "answer": "The Tamil name for the star 'Rohini' is 'Uru' (Cart)."
+    },
+    {
+        "id": 101,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Mayuranathar'?",
+        "answer": "Mayuranathar is the presiding deity at Mayiladuthurai."
+    },
+    {
+        "id": 102,
+        "difficulty": "Easy",
+        "category": "Literature",
+        "question": "Who wrote 'Thiruppallandu'?",
+        "answer": "Periyalwar is the author of 'Thiruppallandu'."
+    },
+    {
+        "id": 103,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Lord Rama as the King of Ayodhya?",
+        "answer": "His son Kusa succeeded Lord Rama as the King of Ayodhya."
+    },
+    {
+        "id": 104,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the famous Nayak King of Madurai?",
+        "answer": "Thirumalai Nayak is the most famous King of the Madurai Nayak dynasty."
+    },
+    {
+        "id": 105,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple represents the Earth element (Prithvi Lingam)?",
+        "answer": "The Ekambareswarar Temple in Kanchipuram represents the Earth element."
+    },
+    {
+        "id": 106,
+        "difficulty": "Hard",
+        "category": "Literature",
+        "question": "Which Tamil text lists the 64 Arts?",
+        "answer": "Texts like 'Chudamani Nigandu' (and references in Vatsyayana's Kamasutra) list the 64 Arts."
+    },
+    {
+        "id": 107,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which animal is associated with the note 'Kural' (Sa)?",
+        "answer": "The Peacock (Mayil) is associated with the musical note 'Kural' (Sa)."
+    },
+    {
+        "id": 108,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the Chola King who conquered Sri Lanka?",
+        "answer": "Raja Raja Chola I (and Rajendra Chola I) are credited with conquering Sri Lanka."
+    },
+    {
+        "id": 109,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who is the guardian of the South-East direction?",
+        "answer": "Agni (Fire God) is the guardian of the South-East direction."
+    },
+    {
+        "id": 110,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the 'Planet Saturn'?",
+        "answer": "The Dharbaranyeswarar Temple in Thirunallar is associated with the Planet Saturn."
+    },
+    {
+        "id": 111,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Ear Pain'?",
+        "answer": "Putting a few drops of Garlic oil or Ginger juice is the remedy for ear pain."
+    },
+    {
+        "id": 112,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Who was the 'Negro' king mentioned as a patron of Tamil?",
+        "answer": "Niruthi is mentioned as a 'Negro' king who was a patron of the Tamil Sangam."
+    },
+    {
+        "id": 113,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Sankaranarayanar' temple located?",
+        "answer": "The Sankaranarayanar temple, depicting Shiva and Vishnu united, is located in Sankarankovil."
+    },
+    {
+        "id": 114,
+        "difficulty": "Easy",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the Moon?",
+        "answer": "The Tamil name for the Moon is 'Thingal'."
+    },
+    {
+        "id": 115,
+        "difficulty": "Hard",
+        "category": "Ancient Science",
+        "question": "What is 'Kuttaka' in Indian mathematics?",
+        "answer": "'Kuttaka' is a method for solving indeterminate equations in algebra."
+    },
+    {
+        "id": 116,
+        "difficulty": "Medium",
+        "category": "Lineage",
+        "question": "Who was the father of Rukmini?",
+        "answer": "Bhishmaka, the King of Kundinapura, was the father of Rukmini."
+    },
+    {
+        "id": 117,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is known as 'Swamimalai'?",
+        "answer": "Thiruveragam is known as 'Swamimalai', one of the Arupadaiveedu."
+    },
+    {
+        "id": 118,
+        "difficulty": "Hard",
+        "category": "Literature",
+        "question": "Who wrote 'Veerasozhiyam'?",
+        "answer": "Buddhamitra is the author of the grammar text 'Veerasozhiyam'."
+    },
+    {
+        "id": 119,
+        "difficulty": "Easy",
+        "category": "History",
+        "question": "Who built the Shore Temple at Mamallapuram?",
+        "answer": "Narasimhavarman II (Rajasimha) built the Shore Temple."
+    },
+    {
+        "id": 120,
+        "difficulty": "Medium",
+        "category": "Mythology",
+        "question": "Who is the vehicle of Lord Murugan?",
+        "answer": "The Peacock is the vehicle of Lord Murugan."
+    },
+    {
+        "id": 121,
+        "difficulty": "Hard",
+        "category": "Temples",
+        "question": "Where is the 'Chidambara Rahasyam' located?",
+        "answer": "The 'Chidambara Rahasyam' (Secret of Chidambaram) is located within the Chidambaram Nataraja Temple, representing the formless ether."
+    },
+    {
+        "id": 122,
+        "difficulty": "Medium",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Diabetes' in the text?",
+        "answer": "Consuming Naval (Jamun) fruit seeds powder or Avaram flower decoction is the remedy for diabetes."
+    },
+    {
+        "id": 123,
+        "difficulty": "Easy",
+        "category": "Astrology",
+        "question": "How many stars (Nakshatras) are there in Indian Astrology?",
+        "answer": "There are 27 main stars (Nakshatras) in Indian Astrology."
+    },
+    {
+        "id": 124,
+        "difficulty": "Hard",
+        "category": "Ancient Geography",
+        "question": "What is the river 'Pahruli' associated with?",
+        "answer": "The Pahruli river was located in the lost continent of Kumari Kandam and was excavated by Pandyan Nediyon."
+    },
+    {
+        "id": 125,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the first King of the Sinhala dynasty?",
+        "answer": "Vijaya, who married a Kalinga princess, was the first King of the Sinhala dynasty (543 B.C.)."
+    },
+    {
+        "id": 126,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Kalingattuparani'?",
+        "answer": "Jayankondar is the author of the war poem 'Kalingattuparani'."
+    },
+    {
+        "id": 127,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who are the Sapta Matrikas?",
+        "answer": "The Sapta Matrikas are the seven divine mothers: Brahmi, Maheshwari, Kaumari, Vaishnavi, Varahi, Indrani, and Chamundi."
+    },
+    {
+        "id": 128,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Where is the 'Meenakshi Sundareswarar' temple?",
+        "answer": "The Meenakshi Sundareswarar temple is located in Madurai."
+    },
+    {
+        "id": 129,
+        "difficulty": "Medium",
+        "category": "Music",
+        "question": "What is the ancient Tamil name for the Raga 'Kalyani'?",
+        "answer": "The ancient Tamil name for the Raga 'Kalyani' is 'Arumpalai'."
+    },
+    {
+        "id": 130,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "When did the Mahabharata War end according to the text?",
+        "answer": "The text dates the end of the Mahabharata War to October 31, 3139 B.C."
+    },
+    {
+        "id": 131,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Uppiliappan'?",
+        "answer": "Uppiliappan (Lord without salt) is the presiding deity at Thirunageswaram."
+    },
+    {
+        "id": 132,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Skin Diseases'?",
+        "answer": "Applying Kuppaimeni leaf paste or Neem oil is the remedy for skin diseases."
+    },
+    {
+        "id": 133,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Punarvasu'?",
+        "answer": "The Tamil name for the star 'Punarvasu' is 'Kadam' (Boat)."
+    },
+    {
+        "id": 134,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who founded the 'Arya Samaj'?",
+        "answer": "Swami Dayananda Saraswati founded the 'Arya Samaj'."
+    },
+    {
+        "id": 135,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Karpaga Vinayakar' temple located?",
+        "answer": "The Karpaga Vinayakar temple is located in Pillayarpatti."
+    },
+    {
+        "id": 136,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who was the father of Brihadbala?",
+        "answer": "Visrutavan (or Visravas) was the father of Brihadbala."
+    },
+    {
+        "id": 137,
+        "difficulty": "Easy",
+        "category": "History",
+        "question": "Who was the first Prime Minister of India?",
+        "answer": "Jawaharlal Nehru was the first Prime Minister of India."
+    },
+    {
+        "id": 138,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Thembavani'?",
+        "answer": "Veeramamunivar (Costanzo Beschi) wrote the Tamil epic 'Thembavani'."
+    },
+    {
+        "id": 139,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who is the guardian of the South-West direction?",
+        "answer": "Niruthi is the guardian of the South-West direction."
+    },
+    {
+        "id": 140,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the 'White Elephant' (Airavata)?",
+        "answer": "The temple at Thiruvalanchuzhi (and Thiruvenkadu) is associated with Airavata worshipping Shiva."
+    },
+    {
+        "id": 141,
+        "difficulty": "Easy",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Bharani'?",
+        "answer": "The Tamil name for the star 'Bharani' is 'Aduppu' (Stove/Oven)."
+    },
+    {
+        "id": 142,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the famous freedom fighter known as 'Bharatiyar'?",
+        "answer": "Subramania Bharati is the famous freedom fighter and poet known as 'Bharatiyar'."
+    },
+    {
+        "id": 143,
+        "difficulty": "Hard",
+        "category": "Temples",
+        "question": "Where is the 'Adi Jagannatha' temple?",
+        "answer": "The Adi Jagannatha temple is located in Thiruppullani."
+    },
+    {
+        "id": 144,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Thiruvilayadal Puranam'?",
+        "answer": "Paranjothi Munivar wrote the 'Thiruvilayadal Puranam'."
+    },
+    {
+        "id": 145,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "What connects the 'Mayan' civilization to Indian mythology in the text?",
+        "answer": "The text claims the Mayans were descendants of the Asura architect Maya, linking their architecture to Indian origins."
+    },
+    {
+        "id": 146,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which animal is associated with the note 'Tharam' (Ni)?",
+        "answer": "The Elephant (Yanai) is associated with the note 'Tharam' (Ni)."
+    },
+    {
+        "id": 147,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Valvil Raman'?",
+        "answer": "Valvil Raman is the presiding deity at Thirupullaboothangudi."
+    },
+    {
+        "id": 148,
+        "difficulty": "Hard",
+        "category": "Ancient Science",
+        "question": "What is 'Rasa Vidya'?",
+        "answer": "'Rasa Vidya' refers to Alchemy, the science of turning base metals into gold or medicine, practiced by Siddhas."
+    },
+    {
+        "id": 149,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the Guru of Chatrapati Shivaji?",
+        "answer": "Samartha Ramdas was the spiritual guru of Chatrapati Shivaji."
+    },
+    {
+        "id": 150,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Constipation'?",
+        "answer": "Eating bananas or drinking warm water with lemon and honey is the remedy for constipation."
+    },
+    {
+        "id": 151,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "According to the text, when did Adi Sankara attain Samadhi?",
+        "answer": "The text claims Adi Sankara attained Samadhi in 477 B.C., at the age of 32."
+    },
+    {
+        "id": 152,
+        "difficulty": "Medium",
+        "category": "Lineage",
+        "question": "Who was the wife of Aniruddha (Krishna's grandson)?",
+        "answer": "Usha, the daughter of Banasura, was the wife of Aniruddha."
+    },
+    {
+        "id": 153,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the story of Markandeya?",
+        "answer": "Thirukkadaiyur (Amritaghateswarar) is associated with Markandeya and the legend of Shiva defeating Yama."
+    },
+    {
+        "id": 154,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Janamejaya to the throne?",
+        "answer": "Satanika succeeded Janamejaya to the throne of the Lunar Dynasty."
+    },
+    {
+        "id": 155,
+        "difficulty": "Easy",
+        "category": "History",
+        "question": "Who wrote 'Vande Mataram'?",
+        "answer": "Bankim Chandra Chatterjee wrote the national song 'Vande Mataram'."
+    },
+    {
+        "id": 156,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Srimushnam' (Bhuvaraha) temple located?",
+        "answer": "The Srimushnam temple dedicated to Bhuvaraha Perumal is located in the Cuddalore/Nadu Nadu region."
+    },
+    {
+        "id": 157,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who was the son of the Vasu Dhara?",
+        "answer": "Dravina is listed as the son of the Vasu Dhara."
+    },
+    {
+        "id": 158,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Mukkoodal Pallu'?",
+        "answer": "Ennayina Pulavar is the author of 'Mukkoodal Pallu'."
+    },
+    {
+        "id": 159,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Nellaiappar'?",
+        "answer": "Nellaiappar is the presiding deity at Tirunelveli."
+    },
+    {
+        "id": 160,
+        "difficulty": "Hard",
+        "category": "Chronology",
+        "question": "What is the 'Saptarishi Era'?",
+        "answer": "The Saptarishi Era is a cyclic calendar system of 2,700 years used in ancient Kashmiri chronicles."
+    },
+    {
+        "id": 161,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Ulagalantha Perumal' temple located in Kanchipuram?",
+        "answer": "The Ulagalantha Perumal temple (Ooragam), depicting Vamana measuring the world, is in Kanchipuram."
+    },
+    {
+        "id": 162,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Nalavenba'?",
+        "answer": "Pugazhendi Pulavar wrote 'Nalavenba', the story of Nala and Damayanti."
+    },
+    {
+        "id": 163,
+        "difficulty": "Hard",
+        "category": "Ancient History",
+        "question": "Which King of Kashmir is known as the 'Alexander of Kashmir'?",
+        "answer": "Lalitaditya Muktapida is known as the 'Alexander of Kashmir' for his extensive conquests."
+    },
+    {
+        "id": 164,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Indigestion' in children?",
+        "answer": "Omam (Ajwain) water or Betel leaf juice is the remedy for indigestion in children."
+    },
+    {
+        "id": 165,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Tyagaraja'?",
+        "answer": "Tyagaraja is the presiding deity at Thiruvarur, famous for the Ajapa Natanam."
+    },
+    {
+        "id": 166,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Magha'?",
+        "answer": "The Tamil name for the star 'Magha' is 'Murasu' (Drum)."
+    },
+    {
+        "id": 167,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the Guru of Krishnadevaraya?",
+        "answer": "Vyasatirtha (and Tathacharya) were the spiritual guides of Krishnadevaraya."
+    },
+    {
+        "id": 168,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "What metal was allegedly used in the construction of ancient cities in Peru according to the text?",
+        "answer": "The text claims Platinum was used in ancient Peruvian construction, implying advanced metallurgical knowledge."
+    },
+    {
+        "id": 169,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Where is the 'Ranganatha' temple located?",
+        "answer": "The Ranganatha temple is located in Srirangam."
+    },
+    {
+        "id": 170,
+        "difficulty": "Medium",
+        "category": "Lineage",
+        "question": "Who was the wife of Vasudeva?",
+        "answer": "Rohini (mother of Balarama) and Devaki (mother of Krishna) were wives of Vasudeva."
+    },
+    {
+        "id": 171,
+        "difficulty": "Hard",
+        "category": "Ancient Geography",
+        "question": "What is the modern name for 'Mina Desam' mentioned in the text?",
+        "answer": "Mina Desam corresponds to the region of Egypt/Arabia ('Mina' meaning Fish, associated with Pandyas)."
+    },
+    {
+        "id": 172,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Kandar Anubhuti'?",
+        "answer": "Arunagirinathar is the author of 'Kandar Anubhuti'."
+    },
+    {
+        "id": 173,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Ardhanareeswarar' temple located on a hill?",
+        "answer": "The Ardhanareeswarar temple is located on a hill in Tiruchengode."
+    },
+    {
+        "id": 174,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Ashlesha'?",
+        "answer": "The Tamil name for the star 'Ashlesha' is 'Ammi'."
+    },
+    {
+        "id": 175,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Blood Pressure'?",
+        "answer": "Eating Garlic or drinking Lemon juice is the remedy for blood pressure."
+    },
+    {
+        "id": 176,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who founded the 'Brahmo Samaj'?",
+        "answer": "Raja Ram Mohan Roy founded the 'Brahmo Samaj'."
+    },
+    {
+        "id": 177,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who narrated the 'Vishnu Purana'?",
+        "answer": "Sage Parashara narrated the 'Vishnu Purana' to Maitreya."
+    },
+    {
+        "id": 178,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Kalyanasundarar'?",
+        "answer": "Kalyanasundarar is the presiding deity at Thirumanancheri, representing the marriage of Shiva."
+    },
+    {
+        "id": 179,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who was the last king of the Solar Dynasty mentioned in the text?",
+        "answer": "Sumitra is listed as the last king of the Solar Dynasty (Ikshvaku lineage) in the Kali Yuga."
+    },
+    {
+        "id": 180,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which animal is associated with the note 'Vilari' (Dha)?",
+        "answer": "The Horse (Kuthirai) is associated with the note 'Vilari' (Dha)."
+    },
+    {
+        "id": 181,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Satyagireeswarar' temple located?",
+        "answer": "The Satyagireeswarar temple is located in Thirumayam."
+    },
+    {
+        "id": 182,
+        "difficulty": "Hard",
+        "category": "Ancient History",
+        "question": "Who was the Nepal King during the time of Adi Sankara?",
+        "answer": "Vrishadeva is listed as the King of Nepal during the time of Adi Sankara."
+    },
+    {
+        "id": 183,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Panchali Sabadam'?",
+        "answer": "Subramania Bharati wrote 'Panchali Sabadam'."
+    },
+    {
+        "id": 184,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Mrigashirsha'?",
+        "answer": "The Tamil name for the star 'Mrigashirsha' is 'Thengai Kan' (Coconut Eye)."
+    },
+    {
+        "id": 185,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the 'Planet Jupiter' (Guru)?",
+        "answer": "The Apatsahayeswarar temple in Alangudi is associated with the Planet Jupiter."
+    },
+    {
+        "id": 186,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Asthma' (Iraippu)?",
+        "answer": "Consuming Thuthuvalai greens or Adathoda leaf juice is the remedy for asthma."
+    },
+    {
+        "id": 187,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Siddhartha (Gautama Buddha) in the lineage?",
+        "answer": "Rahula, Buddha's son, succeeded him in the lineage."
+    },
+    {
+        "id": 188,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Aabhathsahayeswarar'?",
+        "answer": "The Shiva deity at Aaduthurai is known as Aabhathsahayeswarar (The Lord who helps in danger)."
+    },
+    {
+        "id": 189,
+        "difficulty": "Hard",
+        "category": "History",
+        "question": "Who was the Chola King who conquered 'Kadaram' (Malaysia)?",
+        "answer": "Rajendra Chola I conquered Kadaram (Malaysia)."
+    },
+    {
+        "id": 190,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Where is the 'Padmanabha' temple located?",
+        "answer": "The Padmanabha temple is located in Thiruvananthapuram."
+    },
+    {
+        "id": 191,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Thiruppugazh'?",
+        "answer": "Arunagirinathar is the author of 'Thiruppugazh'."
+    },
+    {
+        "id": 192,
+        "difficulty": "Hard",
+        "category": "Global Connections",
+        "question": "What is the 'Colossus of Rhodes'?",
+        "answer": "It was a giant bronze statue of the Sun God Helios in Greece, compared in the text to Indian Sun worship."
+    },
+    {
+        "id": 193,
+        "difficulty": "Medium",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Kidney Stones'?",
+        "answer": "Drinking the juice of Banana Stem (Vazhaithandu) is the remedy for kidney stones."
+    },
+    {
+        "id": 194,
+        "difficulty": "Hard",
+        "category": "Temples",
+        "question": "Which temple is known as 'Pazham Panchuram' in ancient Tamil music?",
+        "answer": "This refers to the Raga Shankarabharanam, not a temple, illustrating the text's musical correlations."
+    },
+    {
+        "id": 195,
+        "difficulty": "Easy",
+        "category": "History",
+        "question": "Who wrote the Indian Constitution?",
+        "answer": "Dr. B.R. Ambedkar wrote the Constitution of India."
+    },
+    {
+        "id": 196,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Vaikunta Perumal Temple' located?",
+        "answer": "The Vaikunta Perumal Temple is located in Kanchipuram."
+    },
+    {
+        "id": 197,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who was the son of the Vasu Pratyusha?",
+        "answer": "Devala (the Sage) is listed as the son of the Vasu Pratyusha."
+    },
+    {
+        "id": 198,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Mahalingaswamy'?",
+        "answer": "Mahalingaswamy is the presiding deity at Thiruvidaimarudur (Madhyarjunam)."
+    },
+    {
+        "id": 199,
+        "difficulty": "Easy",
+        "category": "History",
+        "question": "Who was the 10th Sikh Guru?",
+        "answer": "Guru Gobind Singh was the 10th Sikh Guru."
+    },
+    {
+        "id": 200,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Ardra'?",
+        "answer": "The Tamil name for the star 'Ardra' is 'Mani' (Thiruvathirai)."
+    },
+    {
+        "id": 201,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with 'Uthirakosamangai'?",
+        "answer": "The Mangalanathar temple, famous for its Emerald Nataraja, is associated with Uthirakosamangai."
+    },
+    {
+        "id": 202,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Who ruled Sri Lanka during the time of Emperor Ashoka?",
+        "answer": "Devanampiya Tissa ruled Sri Lanka during the time of Ashoka."
+    },
+    {
+        "id": 203,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Saptarishiswarar' temple located?",
+        "answer": "The Saptarishiswarar temple is located in Lalgudi (Thiruthavathurai)."
+    },
+    {
+        "id": 204,
+        "difficulty": "Easy",
+        "category": "Literature",
+        "question": "Who wrote 'Kanda Shashti Kavacham'?",
+        "answer": "Devaraya Swamigal wrote 'Kanda Shashti Kavacham'."
+    },
+    {
+        "id": 205,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the planet 'Rahu'?",
+        "answer": "The Tamil name for the planet 'Rahu' is 'Karunagam' (Black Serpent)."
+    },
+    {
+        "id": 206,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Amritaghateswarar'?",
+        "answer": "Amritaghateswarar (Lord of the Nectar Pot) is the deity at Thirukkadaiyur."
+    },
+    {
+        "id": 207,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who founded the 'Ramakrishna Mission'?",
+        "answer": "Swami Vivekananda founded the 'Ramakrishna Mission'."
+    },
+    {
+        "id": 208,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Parikshit to the throne?",
+        "answer": "Janamejaya succeeded Parikshit to the throne."
+    },
+    {
+        "id": 209,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Dandruff'?",
+        "answer": "Applying oil boiled with Neem bark, Poovarasu bark, and Aduthinnapalai is the remedy for dandruff."
+    },
+    {
+        "id": 210,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Bhakthavatsala' Perumal temple?",
+        "answer": "The Bhakthavatsala Perumal temple is located in Tiruninravur."
+    },
+    {
+        "id": 211,
+        "difficulty": "Hard",
+        "category": "Ancient Science",
+        "question": "Who wrote 'Siddhanta Siromani'?",
+        "answer": "Bhaskaracharya II is the author of the mathematical text 'Siddhanta Siromani'."
+    },
+    {
+        "id": 212,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Rakshanya Yatrikam'?",
+        "answer": "H.A. Krishna Pillai is the author of the Christian Tamil epic 'Rakshanya Yatrikam'."
+    },
+    {
+        "id": 213,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Perur Pateeswarar'?",
+        "answer": "Pateeswarar is the presiding deity at Perur, near Coimbatore."
+    },
+    {
+        "id": 214,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "What connects 'Malta' island to ancient history in the text?",
+        "answer": "The text links Malta's ancient stone forts and temples (built 6500 years ago) to global ancient civilizations like the Dravidians."
+    },
+    {
+        "id": 215,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Saranatha Perumal'?",
+        "answer": "Saranatha Perumal is the presiding deity at Thirucherai."
+    },
+    {
+        "id": 216,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the famous female freedom fighter from Tamil Nadu mentioned?",
+        "answer": "Valliammai (from Tillaiyadi) is the famous female freedom fighter mentioned."
+    },
+    {
+        "id": 217,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who narrated the 'Brahma Purana'?",
+        "answer": "Lord Brahma narrated the 'Brahma Purana' to Sage Marichi."
+    },
+    {
+        "id": 218,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "What is the Tamil name for the musical note 'Gandharam' (Ga)?",
+        "answer": "The Tamil name for 'Gandharam' is 'Kaikilai'."
+    },
+    {
+        "id": 219,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the 'Courtallam Falls'?",
+        "answer": "The Thirukutralam (Kutralanathar) temple is associated with the Courtallam Falls."
+    },
+    {
+        "id": 220,
+        "difficulty": "Hard",
+        "category": "Chronology",
+        "question": "What is the calculated date of the Mahabharata War according to the text?",
+        "answer": "The text calculates the date of the Mahabharata War as 3139 B.C. (roughly 3100 B.C.)."
+    },
+    {
+        "id": 221,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Thiruvaimozhi'?",
+        "answer": "Nammalwar wrote 'Thiruvaimozhi', a key text in the Divya Prabandham."
+    },
+    {
+        "id": 222,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Mumps'?",
+        "answer": "Applying a paste of Aloe Vera and Turmeric is the remedy for mumps."
+    },
+    {
+        "id": 223,
+        "difficulty": "Hard",
+        "category": "Ancient Geography",
+        "question": "Who was the ruler appointed for 'Kusa Dwipa' (Africa)?",
+        "answer": "Jyotishman was appointed the ruler of Kusa Dwipa."
+    },
+    {
+        "id": 224,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Nityakalyana Perumal' temple located?",
+        "answer": "The Nityakalyana Perumal temple is located in Thiruvidanthai."
+    },
+    {
+        "id": 225,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who founded the Sikh religion?",
+        "answer": "Guru Nanak founded the Sikh religion."
+    },
+    {
+        "id": 226,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Udayana in the Lunar Dynasty?",
+        "answer": "Vihinara succeeded Udayana in the Lunar Dynasty."
+    },
+    {
+        "id": 227,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which animal is associated with the note 'Thuttham' (Ri)?",
+        "answer": "The Bull/Ox (Kaalai) is associated with the note 'Thuttham' (Ri)."
+    },
+    {
+        "id": 228,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Svetaranyeswarar'?",
+        "answer": "Svetaranyeswarar (Lord of the White Forest) is the deity at Thiruvenkadu."
+    },
+    {
+        "id": 229,
+        "difficulty": "Hard",
+        "category": "Literature",
+        "question": "Who wrote 'Ganita Sara Sangraha'?",
+        "answer": "Mahaviracharya, a Jain mathematician, wrote 'Ganita Sara Sangraha'."
+    },
+    {
+        "id": 230,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the story of Thiruneelakanda Nayanar?",
+        "answer": "Thiruerukathampuliyur is associated with Thiruneelakanda Nayanar and the miracle of the bowl."
+    },
+    {
+        "id": 231,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Memory Power'?",
+        "answer": "Eating Vallarai (Centella asiatica) greens is the remedy for memory power."
+    },
+    {
+        "id": 232,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who is the guardian of the North-West direction?",
+        "answer": "Vayu (Wind God) is the guardian of the North-West direction."
+    },
+    {
+        "id": 233,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Kodumudi' temple located?",
+        "answer": "The Kodumudi temple (Thirupandikodumudi) is located on the banks of the Kaveri."
+    },
+    {
+        "id": 234,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Who was the 'Alexander of Kashmir' mentioned in the text?",
+        "answer": "Lalitaditya Muktapida is referred to as the 'Alexander of Kashmir'."
+    },
+    {
+        "id": 235,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Seerapuranam'?",
+        "answer": "Umaru Pulavar wrote 'Seerapuranam', an epic on the life of Prophet Muhammad."
+    },
+    {
+        "id": 236,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Chidambareswarar'?",
+        "answer": "Chidambareswarar is the presiding deity at Chidambaram."
+    },
+    {
+        "id": 237,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Pushya'?",
+        "answer": "The Tamil name for the star 'Pushya' is 'Pudalam Poo'."
+    },
+    {
+        "id": 238,
+        "difficulty": "Medium",
+        "category": "Lineage",
+        "question": "Who was the husband of Rohini (mother of Balarama)?",
+        "answer": "Vasudeva was the husband of Rohini."
+    },
+    {
+        "id": 239,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Mayakoothar'?",
+        "answer": "Mayakoothar is the presiding deity at Perungulam (one of the Nava Tirupatis)."
+    },
+    {
+        "id": 240,
+        "difficulty": "Hard",
+        "category": "Literature",
+        "question": "Who wrote 'Yantra Sarvasva'?",
+        "answer": "Bharadwaja is credited with writing 'Yantra Sarvasva', a text on machines and vimanas."
+    },
+    {
+        "id": 241,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "What is the Tamil name for the musical note 'Madhyamam' (Ma)?",
+        "answer": "The Tamil name for 'Madhyamam' is 'Uzhai'."
+    },
+    {
+        "id": 242,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Vedapureeswarar' temple located?",
+        "answer": "The Vedapureeswarar temple is located in Tiruverkadu."
+    },
+    {
+        "id": 243,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Who ruled Sri Lanka when the Chinese Admiral Zheng He invaded?",
+        "answer": "Vira Alakeshwara was the King of Sri Lanka during Zheng He's invasion."
+    },
+    {
+        "id": 244,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Jambukeswarar'?",
+        "answer": "Jambukeswarar is the deity at Thiruvanaikkaval, representing the Water element."
+    },
+    {
+        "id": 245,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who was the father of King Raghu?",
+        "answer": "Dirghabahu was the father of King Raghu in the Solar Dynasty."
+    },
+    {
+        "id": 246,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Stomach Pain' due to heat?",
+        "answer": "Eating Fenugreek (Vendayam) soaked in curd is the remedy for stomach pain due to heat."
+    },
+    {
+        "id": 247,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who built the Red Fort?",
+        "answer": "Shah Jahan built the Red Fort."
+    },
+    {
+        "id": 248,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Krittika'?",
+        "answer": "The Tamil name for the star 'Krittika' is 'Theepam' (Jyothi/Lamp)."
+    },
+    {
+        "id": 249,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple is associated with the 'White Forest' (Swetharanyam)?",
+        "answer": "Thiruvenkadu is the temple associated with the White Forest (Swetharanyam)."
+    },
+    {
+        "id": 250,
+        "difficulty": "Hard",
+        "category": "Literature",
+        "question": "Who wrote 'Villiputhurar Bharatham'?",
+        "answer": "Villiputhurar is the author of 'Villiputhurar Bharatham'."
+    },
+    {
+        "id": 251,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which bird is associated with the note 'Ili' (Pa)?",
+        "answer": "The Cuckoo (Kuyil) is associated with the note 'Ili' (Pa)."
+    },
+    {
+        "id": 252,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Satyagireeswarar' temple?",
+        "answer": "The Satyagireeswarar temple is located in Thirumayam."
+    },
+    {
+        "id": 253,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Kusa to the throne of Ayodhya?",
+        "answer": "Atithi succeeded Kusa to the throne of Ayodhya."
+    },
+    {
+        "id": 254,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Arunachaleswarar'?",
+        "answer": "Arunachaleswarar is the presiding deity at Thiruvannamalai, representing the Fire element."
+    },
+    {
+        "id": 255,
+        "difficulty": "Hard",
+        "category": "Ancient Science",
+        "question": "What is 'Anu' in ancient texts?",
+        "answer": "'Anu' refers to the 'Atom' in ancient Indian scientific texts."
+    },
+    {
+        "id": 256,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Where is the 'Swamimalai' temple?",
+        "answer": "Swamimalai (Thiruveragam) is located near Kumbakonam."
+    },
+    {
+        "id": 257,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Kaivalya Navaneetham'?",
+        "answer": "Tandavaraya Swamigal wrote 'Kaivalya Navaneetham'."
+    },
+    {
+        "id": 258,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Ashlesha'?",
+        "answer": "The Tamil name for the star 'Ashlesha' is 'Ammi'."
+    },
+    {
+        "id": 259,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Ujjivanathar'?",
+        "answer": "Ujjivanathar is the deity at Thirukarkudi (Uyyakondan Tirumalai)."
+    },
+    {
+        "id": 260,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who was the wife of the Yadava King Vasudeva, mother of Krishna?",
+        "answer": "Devaki was the wife of Vasudeva and mother of Krishna."
+    },
+    {
+        "id": 261,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Ulcer' (Vayittru Pun)?",
+        "answer": "Drinking Manathakkali greens soup or Coconut milk is the remedy for ulcers."
+    },
+    {
+        "id": 262,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Vatapatrasayee'?",
+        "answer": "Vatapatrasayee is the presiding deity at Srivilliputhur."
+    },
+    {
+        "id": 263,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Where does the text locate 'Meru Mountain'?",
+        "answer": "The text locates 'Meru Mountain' in the center of the lost continent Kumari Kandam."
+    },
+    {
+        "id": 264,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Gajendra Varadar' temple located?",
+        "answer": "The Gajendra Varadar temple is located in Kabisthalam."
+    },
+    {
+        "id": 265,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the planet 'Venus'?",
+        "answer": "The Tamil name for 'Venus' is 'Velli'."
+    },
+    {
+        "id": 266,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who was the 'Iron Man of India'?",
+        "answer": "Sardar Vallabhbhai Patel is known as the 'Iron Man of India'."
+    },
+    {
+        "id": 267,
+        "difficulty": "Hard",
+        "category": "Literature",
+        "question": "Who wrote 'Prabodha Chandrodayam'?",
+        "answer": "Krishna Misra wrote 'Prabodha Chandrodayam'."
+    },
+    {
+        "id": 268,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which animal is associated with the note 'Kaikilai' (Ga)?",
+        "answer": "The Goat (Aadu) is associated with the note 'Kaikilai' (Ga)."
+    },
+    {
+        "id": 269,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Kalahastheeswarar'?",
+        "answer": "Kalahastheeswarar is the presiding deity at Srikalahasti."
+    },
+    {
+        "id": 270,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who was the father of Vasudeva?",
+        "answer": "Surasena (Shoora) was the father of Vasudeva."
+    },
+    {
+        "id": 271,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Nidishatakam'?",
+        "answer": "Bhartrihari is the author of 'Nidishatakam'."
+    },
+    {
+        "id": 272,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Where is the 'Bannari Amman' temple?",
+        "answer": "The Bannari Amman temple is located in the Sathyamangalam forests."
+    },
+    {
+        "id": 273,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "Who ruled Kashmir during the childhood of Krishna?",
+        "answer": "Gonanda II ruled Kashmir during the childhood of Krishna."
+    },
+    {
+        "id": 274,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Chennimalai Andavar'?",
+        "answer": "Chennimalai Andavar (Murugan) is the deity at Chennimalai."
+    },
+    {
+        "id": 275,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Magha'?",
+        "answer": "The Tamil name for the star 'Magha' is 'Murasu'."
+    },
+    {
+        "id": 276,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Moovar Ula'?",
+        "answer": "Ottakoothar wrote 'Moovar Ula'."
+    },
+    {
+        "id": 277,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Dysentery'?",
+        "answer": "Poppy seeds (Kasa Kasa) and Almonds ground in milk is the remedy for dysentery."
+    },
+    {
+        "id": 278,
+        "difficulty": "Hard",
+        "category": "Mythology",
+        "question": "Who was the son of the Vasu Anala?",
+        "answer": "Skanda/Kartikeya is listed as the son of the Vasu Anala (Fire)."
+    },
+    {
+        "id": 279,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Tyagaraja'?",
+        "answer": "Tyagaraja is the deity at Thiruvarur."
+    },
+    {
+        "id": 280,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "What is the 'Colossus of Rhodes'?",
+        "answer": "A giant bronze statue of the Sun God Helios in Greece."
+    },
+    {
+        "id": 281,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "What is the ancient Tamil name for the Raga 'Todi'?",
+        "answer": "The ancient Tamil name for 'Todi' is 'Vilari'."
+    },
+    {
+        "id": 282,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Srivaikuntanathan' temple?",
+        "answer": "The Srivaikuntanathan temple is located in Srivaikuntam."
+    },
+    {
+        "id": 283,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Abhimanyu?",
+        "answer": "Parikshit succeeded Abhimanyu."
+    },
+    {
+        "id": 284,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Thiruchirrambala Kovaiyar'?",
+        "answer": "Manickavasagar wrote 'Thiruchirrambala Kovaiyar'."
+    },
+    {
+        "id": 285,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Where is the 'Sankaranarayanar' temple?",
+        "answer": "The Sankaranarayanar temple is in Sankarankovil."
+    },
+    {
+        "id": 286,
+        "difficulty": "Hard",
+        "category": "Revisionist History",
+        "question": "What is the significance of the Nazca Lines?",
+        "answer": "The text claims they were ancient 'Vimana' landing strips."
+    },
+    {
+        "id": 287,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Vijayasana Perumal'?",
+        "answer": "Vijayasana Perumal is the deity at Natham (Nava Tirupati)."
+    },
+    {
+        "id": 288,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the star 'Punarvasu'?",
+        "answer": "The Tamil name for 'Punarvasu' is 'Kadam'."
+    },
+    {
+        "id": 289,
+        "difficulty": "Easy",
+        "category": "Siddha Medicine",
+        "question": "What is the remedy for 'Diabetes'?",
+        "answer": "Naval (Jamun) fruit seeds powder is the remedy for diabetes."
+    },
+    {
+        "id": 290,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Where is the 'Marudamalai' temple?",
+        "answer": "The Marudamalai temple is located near Coimbatore."
+    },
+    {
+        "id": 291,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who was the father of Rukmini?",
+        "answer": "Bhishmaka was the father of Rukmini."
+    },
+    {
+        "id": 292,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "question": "Who wrote 'Vinayagar Agaval'?",
+        "answer": "Avvaiyar wrote 'Vinayagar Agaval'."
+    },
+    {
+        "id": 293,
+        "difficulty": "Hard",
+        "category": "Ancient History",
+        "question": "Who was the Nepal King during the time of Adi Sankara?",
+        "answer": "Vrishadeva was the King of Nepal during Adi Sankara's time."
+    },
+    {
+        "id": 294,
+        "difficulty": "Easy",
+        "category": "Temples",
+        "question": "Where is the 'Kailasanatha Temple' located?",
+        "answer": "The Kailasanatha Temple is located in Kanchipuram (and Ellora)."
+    },
+    {
+        "id": 295,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who wrote 'Manonmaniyam'?",
+        "answer": "P. Sundaram Pillai wrote 'Manonmaniyam'."
+    },
+    {
+        "id": 296,
+        "difficulty": "Hard",
+        "category": "Astrology",
+        "question": "What is the Tamil name for the planet 'Mars'?",
+        "answer": "The Tamil name for 'Mars' is 'Sevvai'."
+    },
+    {
+        "id": 297,
+        "difficulty": "Medium",
+        "category": "Temples",
+        "question": "Which temple deity is known as 'Kaisinavendhan'?",
+        "answer": "Kaisinavendhan is the deity at Thiruppulinkudi."
+    },
+    {
+        "id": 298,
+        "difficulty": "Hard",
+        "category": "Lineage",
+        "question": "Who succeeded Siddhartha (Buddha)?",
+        "answer": "Rahula succeeded Siddhartha."
+    },
+    {
+        "id": 299,
+        "difficulty": "Easy",
+        "category": "Music",
+        "question": "Which animal is associated with the note 'Vilari'?",
+        "answer": "The Horse is associated with the note 'Vilari'."
+    },
+    {
+        "id": 300,
+        "difficulty": "Medium",
+        "category": "History",
+        "question": "Who founded the 'Sikh' religion?",
+        "answer": "Guru Nanak founded the 'Sikh' religion."
     }
 ]

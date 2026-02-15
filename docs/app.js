@@ -1,26 +1,31 @@
 /* ============================================================
-   BVQA — App Logic
+   BVQA — App Logic (v2 — flat JSON with difficulty filtering)
    ============================================================ */
 
 (function () {
     'use strict';
 
     // State
-    let allData = [];
-    let flatQuestions = [];
+    let allQuestions = [];
     let categories = [];
     let activeCategory = null;
+    let activeDifficulty = 'all'; // 'all', 'Easy', 'Medium', 'Hard'
     let searchQuery = '';
 
     // DOM
     const searchInput = document.getElementById('searchInput');
     const categoryList = document.getElementById('categoryList');
+    const difficultyFilters = document.getElementById('difficultyFilters');
     const qaGrid = document.getElementById('qaGrid');
     const emptyState = document.getElementById('emptyState');
     const activeTitle = document.getElementById('activeCategory');
     const resultCount = document.getElementById('resultCount');
     const totalCount = document.getElementById('totalCount');
     const catCount = document.getElementById('catCount');
+    const easyCount = document.getElementById('easyCount');
+    const mediumCount = document.getElementById('mediumCount');
+    const hardCount = document.getElementById('hardCount');
+    const activeDiffBadge = document.getElementById('activeDiffBadge');
     const allBtn = document.getElementById('allBtn');
     const backToTop = document.getElementById('backToTop');
     const mobileCatToggle = document.getElementById('mobileCatToggle');
@@ -30,17 +35,23 @@
     async function init() {
         try {
             const res = await fetch('data.json');
-            allData = await res.json();
-            categories = allData.map(c => c.category);
-            flatQuestions = allData.flatMap(cat =>
-                cat.questions.map(q => ({
-                    ...q,
-                    category: cat.category
-                }))
-            );
+            allQuestions = await res.json();
 
-            totalCount.textContent = flatQuestions.length;
+            // Extract unique categories sorted
+            const catMap = {};
+            allQuestions.forEach(q => {
+                catMap[q.category] = (catMap[q.category] || 0) + 1;
+            });
+            categories = Object.entries(catMap)
+                .sort((a, b) => b[1] - a[1])
+                .map(([name, count]) => ({ name, count }));
+
+            // Counts
+            totalCount.textContent = allQuestions.length;
             catCount.textContent = categories.length;
+            easyCount.textContent = allQuestions.filter(q => q.difficulty === 'Easy').length;
+            mediumCount.textContent = allQuestions.filter(q => q.difficulty === 'Medium').length;
+            hardCount.textContent = allQuestions.filter(q => q.difficulty === 'Hard').length;
 
             renderCategories();
             renderQuestions();
@@ -53,20 +64,18 @@
     // ---- Render Categories ----
     function renderCategories() {
         categoryList.innerHTML = '';
-        categories.forEach((cat, i) => {
-            const count = allData[i].questions.length;
-            const short = cat.replace(/^[IVXLC]+\.\s*/, '');
+        categories.forEach(cat => {
             const btn = document.createElement('button');
             btn.className = 'cat-item';
             btn.innerHTML = `
-                <span class="cat-num">${count}</span>
-                <span class="cat-label" title="${short}">${short}</span>
+                <span class="cat-num">${cat.count}</span>
+                <span class="cat-label" title="${cat.name}">${cat.name}</span>
             `;
             btn.addEventListener('click', () => {
-                activeCategory = cat;
+                activeCategory = cat.name;
                 searchQuery = '';
                 searchInput.value = '';
-                setActiveCategory(btn);
+                setActiveCategoryBtn(btn);
                 renderQuestions();
                 closeMobileSidebar();
             });
@@ -74,17 +83,31 @@
         });
     }
 
-    function setActiveCategory(activeBtn) {
+    function setActiveCategoryBtn(activeBtn) {
         document.querySelectorAll('.cat-item').forEach(b => b.classList.remove('active'));
         if (activeBtn) activeBtn.classList.add('active');
     }
 
+    // ---- Difficulty filter clicks ----
+    difficultyFilters.addEventListener('click', (e) => {
+        const btn = e.target.closest('.diff-btn');
+        if (!btn) return;
+        activeDifficulty = btn.dataset.difficulty;
+        document.querySelectorAll('.diff-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderQuestions();
+    });
+
     // ---- Filter & Render Questions ----
     function getFiltered() {
-        let items = flatQuestions;
+        let items = allQuestions;
 
         if (activeCategory) {
             items = items.filter(q => q.category === activeCategory);
+        }
+
+        if (activeDifficulty !== 'all') {
+            items = items.filter(q => q.difficulty === activeDifficulty);
         }
 
         if (searchQuery.trim()) {
@@ -101,12 +124,22 @@
     function renderQuestions() {
         const filtered = getFiltered();
 
+        // Title
         if (activeCategory) {
-            activeTitle.textContent = activeCategory.replace(/^[IVXLC]+\.\s*/, '');
+            activeTitle.textContent = activeCategory;
         } else if (searchQuery.trim()) {
             activeTitle.textContent = 'Search Results';
         } else {
             activeTitle.textContent = 'All Questions';
+        }
+
+        // Difficulty badge in header
+        if (activeDifficulty !== 'all') {
+            activeDiffBadge.style.display = 'inline-block';
+            activeDiffBadge.textContent = activeDifficulty;
+            activeDiffBadge.className = 'active-diff-badge ' + activeDifficulty.toLowerCase();
+        } else {
+            activeDiffBadge.style.display = 'none';
         }
 
         resultCount.textContent = `${filtered.length} result${filtered.length !== 1 ? 's' : ''}`;
@@ -120,8 +153,7 @@
 
         const fragment = document.createDocumentFragment();
         filtered.forEach(q => {
-            const card = createCard(q);
-            fragment.appendChild(card);
+            fragment.appendChild(createCard(q));
         });
         qaGrid.innerHTML = '';
         qaGrid.appendChild(fragment);
@@ -133,14 +165,17 @@
 
         const questionText = highlightText(q.question);
         const answerText = highlightText(q.answer);
-        const showCat = !activeCategory;
+        const diffClass = q.difficulty.toLowerCase();
 
         card.innerHTML = `
             <div class="qa-question">
                 <span class="qa-num">${q.id}</span>
                 <div class="qa-q-text">
                     ${questionText}
-                    ${showCat ? `<div class="qa-cat-badge">${q.category.replace(/^[IVXLC]+\.\s*/, '')}</div>` : ''}
+                    <div class="qa-meta">
+                        <span class="qa-cat-badge">${q.category}</span>
+                        <span class="qa-diff-badge ${diffClass}">${q.difficulty}</span>
+                    </div>
                 </div>
                 <div class="qa-toggle">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -156,10 +191,7 @@
             </div>
         `;
 
-        card.addEventListener('click', () => {
-            card.classList.toggle('open');
-        });
-
+        card.addEventListener('click', () => card.classList.toggle('open'));
         return card;
     }
 
@@ -169,8 +201,7 @@
         let result = text;
         terms.forEach(term => {
             const esc = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-            const regex = new RegExp(`(${esc})`, 'gi');
-            result = result.replace(regex, '<mark>$1</mark>');
+            result = result.replace(new RegExp(`(${esc})`, 'gi'), '<mark>$1</mark>');
         });
         return result;
     }
@@ -185,13 +216,13 @@
             searchQuery = e.target.value;
             if (searchQuery.trim()) {
                 activeCategory = null;
-                setActiveCategory(null);
+                setActiveCategoryBtn(null);
             }
             renderQuestions();
         }, 200);
     });
 
-    // Keyboard shortcut: Cmd+K or Ctrl+K
+    // ⌘K / Ctrl+K
     document.addEventListener('keydown', (e) => {
         if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
             e.preventDefault();
@@ -204,12 +235,12 @@
         }
     });
 
-    // All button
+    // All button (categories)
     allBtn.addEventListener('click', () => {
         activeCategory = null;
         searchQuery = '';
         searchInput.value = '';
-        setActiveCategory(null);
+        setActiveCategoryBtn(null);
         renderQuestions();
         closeMobileSidebar();
     });
@@ -223,15 +254,10 @@
     });
 
     // Mobile sidebar
-    mobileCatToggle.addEventListener('click', () => {
-        sidebar.classList.toggle('open');
-    });
+    mobileCatToggle.addEventListener('click', () => sidebar.classList.toggle('open'));
 
-    function closeMobileSidebar() {
-        sidebar.classList.remove('open');
-    }
+    function closeMobileSidebar() { sidebar.classList.remove('open'); }
 
-    // Close sidebar on outside click (mobile)
     document.addEventListener('click', (e) => {
         if (sidebar.classList.contains('open') &&
             !sidebar.contains(e.target) &&
